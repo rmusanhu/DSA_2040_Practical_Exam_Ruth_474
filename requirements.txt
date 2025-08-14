@@ -1,0 +1,14 @@
+# Core data manipulation
+pandas
+numpy
+
+# Machine learning and data mining
+scikit-learn
+mlxtend
+
+# Data visualization
+matplotlib
+seaborn
+
+# Synthetic data generation (used in retail data)
+Faker

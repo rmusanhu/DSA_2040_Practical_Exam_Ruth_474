@@ -1,0 +1,1001 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,TotalSales
+INV1656,P880,Extended human-resource database,2,2023-01-01,72.76,C176,Kenya,145.52
+INV1725,P403,De-engineered mobile contingency,16,2023-01-02,40.27,C194,Ethiopia,644.32
+INV1774,P809,Exclusive real-time policy,32,2023-01-02,15.21,C137,Egypt,486.72
+INV1347,P277,Exclusive scalable hardware,47,2023-01-02,65.02,C168,Nigeria,3055.9399999999996
+INV1252,P369,Self-enabling zero tolerance productivity,26,2023-01-03,36.91,C183,Egypt,959.6599999999999
+INV1862,P697,Profound didactic focus group,5,2023-01-04,62.12,C163,Kenya,310.59999999999997
+INV1334,P311,Cross-platform next generation initiative,46,2023-01-07,96.25,C157,Tanzania,4427.5
+INV1310,P1026,Programmable user-facing Internet solution,18,2023-01-09,48.89,C126,Ghana,880.02
+INV1030,P629,Decentralized tertiary project,27,2023-01-09,73.89,C173,Nigeria,1995.03
+INV1345,P455,De-engineered tertiary customer loyalty,33,2023-01-10,98.08,C164,South Africa,3236.64
+INV1196,P664,Managed well-modulated array,33,2023-01-12,59.16,C170,Rwanda,1952.28
+INV1763,P770,Fundamental web-enabled challenge,47,2023-01-12,68.91,C168,Ghana,3238.77
+INV1192,P314,Triple-buffered asynchronous Graphic Interface,8,2023-01-13,47.35,C121,Nigeria,378.8
+INV1105,P375,Implemented context-sensitive intranet,24,2023-01-13,75.71,C175,Ghana,1817.04
+INV1995,P850,Progressive client-server interface,26,2023-01-13,82.7,C153,South Africa,2150.2000000000003
+INV1256,P821,Horizontal responsive encoding,32,2023-01-13,78.2,C151,Nigeria,2502.4
+INV1476,P883,Digitized regional Internet solution,16,2023-01-13,52.09,C151,Morocco,833.44
+INV1125,P232,Enterprise-wide optimal collaboration,24,2023-01-15,42.94,C167,Nigeria,1030.56
+INV1122,P257,Phased high-level contingency,33,2023-01-18,95.95,C193,Ghana,3166.35
+INV1564,P381,Mandatory multimedia model,4,2023-01-20,76.25,C157,Ghana,305.0
+INV1653,P572,Advanced directional toolset,9,2023-01-21,5.03,C178,South Africa,45.27
+INV1806,P930,Advanced stable attitude,17,2023-01-21,75.49,C200,Nigeria,1283.33
+INV1672,P502,Polarized upward-trending data-warehouse,36,2023-01-23,49.83,C146,Nigeria,1793.8799999999999
+INV1496,P408,Profound clear-thinking definition,12,2023-01-23,47.08,C155,Kenya,564.96
+INV1337,P394,Customizable full-range application,38,2023-01-25,52.61,C105,Nigeria,1999.18
+INV1873,P678,Distributed object-oriented encoding,6,2023-01-27,52.73,C164,Tanzania,316.38
+INV1581,P918,Programmable 5thgeneration access,36,2023-01-27,53.51,C168,Nigeria,1926.36
+INV1075,P921,Virtual tertiary pricing structure,36,2023-01-28,45.74,C188,South Africa,1646.64
+INV1630,P1005,Fundamental mission-critical artificial intelligence,42,2023-01-29,20.89,C125,Nigeria,877.38
+INV1522,P922,User-centric hybrid strategy,16,2023-01-31,79.09,C110,Kenya,1265.44
+INV1585,P239,Open-source tertiary secured line,32,2023-01-31,91.27,C145,Kenya,2920.64
+INV1218,P365,Synergized methodical concept,28,2023-01-31,20.42,C139,South Africa,571.76
+INV1461,P270,Balanced composite alliance,37,2023-02-01,33.58,C167,Uganda,1242.46
+INV1827,P677,Visionary analyzing extranet,50,2023-02-01,60.05,C112,Morocco,3002.5
+INV1732,P1070,Fully-configurable dynamic interface,8,2023-02-03,67.27,C174,Tanzania,538.16
+INV1804,P650,Multi-lateral national flexibility,10,2023-02-04,86.78,C151,Nigeria,867.8
+INV1536,P351,Object-based next generation parallelism,37,2023-02-05,65.11,C197,Ethiopia,2409.07
+INV1946,P1038,Cross-platform national task-force,14,2023-02-05,64.38,C153,Ethiopia,901.3199999999999
+INV1267,P887,Managed attitude-oriented parallelism,25,2023-02-06,22.58,C147,Nigeria,564.5
+INV1647,P903,Configurable multi-tasking flexibility,38,2023-02-08,48.96,C115,Tanzania,1860.48
+INV1128,P610,Visionary eco-centric methodology,44,2023-02-10,91.27,C155,Kenya,4015.8799999999997
+INV1443,P860,Synergized uniform neural-net,4,2023-02-11,26.76,C179,Ethiopia,107.04
+INV1965,P304,Diverse content-based firmware,39,2023-02-13,41.54,C190,Nigeria,1620.06
+INV1511,P245,Open-source web-enabled frame,34,2023-02-13,38.29,C134,Nigeria,1301.86
+INV1366,P692,Future-proofed regional migration,29,2023-02-14,52.72,C192,Nigeria,1528.8799999999999
+INV1901,P970,Multi-lateral intermediate moderator,18,2023-02-15,73.46,C150,Tanzania,1322.28
+INV1253,P471,Vision-oriented national database,3,2023-02-15,86.25,C199,Egypt,258.75
+INV1296,P443,Ergonomic human-resource customer loyalty,24,2023-02-17,95.9,C138,South Africa,2301.6000000000004
+INV1258,P416,Progressive web-enabled firmware,41,2023-02-17,57.01,C187,Rwanda,2337.41
+INV1775,P524,Focused analyzing knowledgebase,47,2023-02-19,94.04,C195,Nigeria,4419.88
+INV1853,P952,Progressive radical process improvement,27,2023-02-20,89.77,C140,Nigeria,2423.79
+INV1455,P750,Managed homogeneous success,30,2023-02-20,39.73,C101,Ghana,1191.8999999999999
+INV1513,P541,Assimilated demand-driven artificial intelligence,10,2023-02-21,82.05,C142,Kenya,820.5
+INV1291,P232,Upgradable attitude-oriented middleware,16,2023-02-23,83.97,C170,Nigeria,1343.52
+INV1835,P798,Re-contextualized content-based policy,48,2023-02-24,50.54,C191,Nigeria,2425.92
+INV1090,P850,Robust heuristic time-frame,26,2023-02-25,73.32,C131,South Africa,1906.3199999999997
+INV1860,P479,Right-sized 24/7 product,42,2023-02-25,20.26,C135,Kenya,850.9200000000001
+INV1234,P259,Front-line clear-thinking circuit,38,2023-02-26,33.08,C115,Nigeria,1257.04
+INV1184,P317,Virtual radical benchmark,33,2023-02-26,53.97,C166,Egypt,1781.01
+INV1609,P559,Front-line modular time-frame,41,2023-02-27,95.31,C184,Nigeria,3907.71
+INV1649,P959,Team-oriented client-server Internet solution,46,2023-02-27,55.75,C161,Nigeria,2564.5
+INV1175,P810,Profound full-range secured line,28,2023-03-01,78.27,C182,Tanzania,2191.56
+INV1590,P1036,Switchable impactful complexity,12,2023-03-01,60.23,C129,Ghana,722.76
+INV1671,P913,Down-sized holistic initiative,4,2023-03-02,54.71,C132,Ghana,218.84
+INV1361,P1069,Programmable responsive neural-net,6,2023-03-03,42.75,C118,Nigeria,256.5
+INV1130,P267,Integrated maximized benchmark,22,2023-03-03,10.98,C191,Ghana,241.56
+INV1548,P455,Assimilated impactful archive,31,2023-03-04,11.12,C181,Kenya,344.71999999999997
+INV1926,P356,Adaptive 5thgeneration installation,48,2023-03-04,45.13,C164,South Africa,2166.2400000000002
+INV1477,P1036,Multi-tiered optimizing protocol,39,2023-03-05,90.74,C195,South Africa,3538.8599999999997
+INV1910,P752,Persistent mission-critical encryption,12,2023-03-05,87.06,C133,Ghana,1044.72
+INV1389,P394,Switchable solution-oriented extranet,23,2023-03-05,39.01,C168,South Africa,897.2299999999999
+INV1224,P531,Universal responsive productivity,19,2023-03-07,56.12,C180,Nigeria,1066.28
+INV1497,P903,Operative executive superstructure,16,2023-03-08,88.03,C133,Nigeria,1408.48
+INV1168,P1011,Optimized grid-enabled methodology,22,2023-03-09,4.25,C134,South Africa,93.5
+INV1982,P579,Function-based 4thgeneration Internet solution,47,2023-03-10,79.0,C121,South Africa,3713.0
+INV1124,P1041,Multi-lateral intermediate emulation,23,2023-03-11,23.51,C163,Nigeria,540.73
+INV1768,P336,Multi-tiered motivating support,50,2023-03-11,26.17,C145,Ghana,1308.5
+INV1027,P865,Business-focused well-modulated hardware,44,2023-03-12,96.83,C102,Ghana,4260.5199999999995
+INV1298,P885,Intuitive stable orchestration,49,2023-03-12,9.94,C154,South Africa,487.06
+INV1102,P273,Reactive web-enabled superstructure,1,2023-03-14,21.25,C131,Ethiopia,21.25
+INV1005,P450,Versatile stable initiative,21,2023-03-14,85.23,C154,Ethiopia,1789.8300000000002
+INV1121,P994,Ergonomic foreground interface,34,2023-03-16,82.85,C169,Nigeria,2816.8999999999996
+INV1684,P508,Fully-configurable empowering project,45,2023-03-16,73.8,C145,Uganda,3321.0
+INV1801,P841,Cloned zero tolerance data-warehouse,37,2023-03-17,16.77,C135,Nigeria,620.49
+INV1810,P543,Proactive tangible emulation,46,2023-03-17,65.4,C184,South Africa,3008.4
+INV1409,P282,Configurable eco-centric knowledge user,13,2023-03-18,59.32,C110,Nigeria,771.16
+INV1386,P935,Customizable multimedia intranet,32,2023-03-18,99.04,C154,Ghana,3169.28
+INV1495,P551,User-friendly object-oriented approach,5,2023-03-18,96.17,C164,Ghana,480.85
+INV1817,P592,Multi-layered homogeneous Local Area Network,40,2023-03-18,87.02,C114,South Africa,3480.7999999999997
+INV1229,P1099,Fundamental object-oriented benchmark,6,2023-03-20,80.88,C129,Ghana,485.28
+INV1747,P871,Face-to-face zero administration challenge,36,2023-03-21,56.26,C111,Nigeria,2025.36
+INV1284,P207,Distributed eco-centric standardization,37,2023-03-21,27.1,C200,Ghana,1002.7
+INV1941,P821,Balanced impactful neural-net,14,2023-03-22,62.1,C168,Egypt,869.4
+INV1967,P991,Intuitive next generation focus group,26,2023-03-22,82.36,C109,Ethiopia,2141.36
+INV1152,P638,Synchronized discrete synergy,39,2023-03-22,31.83,C158,Egypt,1241.37
+INV1878,P603,Face-to-face heuristic encryption,48,2023-03-25,30.23,C130,Ethiopia,1451.04
+INV1143,P471,Implemented optimizing algorithm,39,2023-03-26,11.32,C150,Kenya,441.48
+INV1150,P964,Intuitive multi-state function,13,2023-03-27,83.91,C197,Nigeria,1090.83
+INV1065,P280,Profound user-facing service-desk,2,2023-03-28,75.3,C118,Kenya,150.6
+INV1378,P665,Mandatory coherent benchmark,25,2023-03-28,54.3,C187,Egypt,1357.5
+INV1489,P359,Ergonomic contextually-based circuit,28,2023-03-28,24.63,C191,Ghana,689.64
+INV1916,P999,Balanced transitional throughput,26,2023-03-29,21.41,C169,Rwanda,556.66
+INV1307,P448,Fully-configurable disintermediate benchmark,35,2023-03-30,40.27,C115,Nigeria,1409.45
+INV1177,P741,Open-source web-enabled focus group,44,2023-03-30,22.79,C146,Nigeria,1002.76
+INV1048,P544,Extended tangible definition,9,2023-03-30,12.55,C128,Egypt,112.95
+INV1983,P270,Enhanced leadingedge groupware,22,2023-03-31,86.6,C114,Kenya,1905.1999999999998
+INV1549,P882,Adaptive user-facing architecture,46,2023-03-31,85.57,C185,Nigeria,3936.22
+INV1864,P598,Up-sized coherent throughput,4,2023-03-31,67.34,C174,Kenya,269.36
+INV1754,P997,Multi-tiered discrete application,28,2023-04-01,64.36,C114,Uganda,1802.08
+INV1008,P954,Switchable 3rdgeneration hardware,23,2023-04-02,6.51,C174,Egypt,149.73
+INV1434,P409,Progressive intangible neural-net,15,2023-04-03,4.64,C140,Egypt,69.6
+INV1648,P936,Virtual bi-directional info-mediaries,7,2023-04-03,66.42,C120,South Africa,464.94
+INV1890,P251,Exclusive 4thgeneration focus group,25,2023-04-04,52.0,C179,Rwanda,1300.0
+INV1449,P209,De-engineered zero-defect firmware,35,2023-04-04,62.67,C121,Kenya,2193.4500000000003
+INV1504,P1066,Adaptive empowering productivity,33,2023-04-05,75.91,C186,Ghana,2505.0299999999997
+INV1365,P697,Mandatory tertiary strategy,24,2023-04-06,46.06,C154,Egypt,1105.44
+INV1820,P923,Horizontal client-driven archive,28,2023-04-06,65.26,C101,Morocco,1827.2800000000002
+INV1469,P920,Fully-configurable 24/7 methodology,34,2023-04-07,53.73,C175,Uganda,1826.82
+INV1380,P633,Reactive neutral functionalities,31,2023-04-08,74.05,C198,Tanzania,2295.5499999999997
+INV1852,P965,Vision-oriented discrete analyzer,15,2023-04-09,43.66,C156,Kenya,654.9
+INV1915,P270,Assimilated directional emulation,14,2023-04-10,23.79,C143,Morocco,333.06
+INV1872,P1060,Cross-platform upward-trending architecture,34,2023-04-10,82.49,C170,Kenya,2804.66
+INV1599,P224,Multi-layered web-enabled software,49,2023-04-13,43.89,C122,Morocco,2150.61
+INV1050,P294,Synchronized 5thgeneration structure,2,2023-04-13,61.0,C113,Ethiopia,122.0
+INV1789,P686,Balanced impactful collaboration,1,2023-04-14,83.26,C111,Morocco,83.26
+INV1690,P493,Sharable disintermediate website,8,2023-04-14,3.91,C107,South Africa,31.28
+INV1836,P912,Progressive well-modulated methodology,47,2023-04-14,54.69,C160,South Africa,2570.43
+INV1011,P958,Right-sized national neural-net,24,2023-04-15,2.81,C184,Nigeria,67.44
+INV1471,P826,Customizable modular website,48,2023-04-15,11.84,C175,Nigeria,568.3199999999999
+INV1243,P270,Team-oriented impactful data-warehouse,33,2023-04-16,91.15,C158,Nigeria,3007.9500000000003
+INV1012,P758,Phased demand-driven Local Area Network,36,2023-04-16,70.0,C109,Nigeria,2520.0
+INV1742,P593,Programmable next generation concept,50,2023-04-17,53.82,C149,Ethiopia,2691.0
+INV1355,P867,Advanced impactful analyzer,17,2023-04-17,47.85,C145,Ethiopia,813.45
+INV1809,P478,Managed asynchronous productivity,9,2023-04-18,11.8,C194,Tanzania,106.2
+INV1417,P440,Function-based discrete application,16,2023-04-19,80.0,C175,South Africa,1280.0
+INV1772,P743,Up-sized intangible algorithm,1,2023-04-21,13.45,C147,Nigeria,13.45
+INV1415,P891,Decentralized system-worthy utilization,8,2023-04-22,13.32,C195,Kenya,106.56
+INV1679,P893,Cloned incremental capacity,10,2023-04-24,18.25,C151,Kenya,182.5
+INV1097,P886,Decentralized 6thgeneration challenge,1,2023-04-26,99.77,C153,Ghana,99.77
+INV1180,P1081,Fully-configurable encompassing hub,11,2023-04-29,97.58,C198,Uganda,1073.3799999999999
+INV1881,P878,Future-proofed full-range middleware,23,2023-04-29,91.86,C105,Ethiopia,2112.78
+INV1248,P331,Down-sized methodical conglomeration,3,2023-04-29,4.39,C171,Nigeria,13.169999999999998
+INV1215,P356,Vision-oriented systemic moratorium,49,2023-05-01,41.39,C199,Tanzania,2028.1100000000001
+INV1433,P467,Extended even-keeled software,6,2023-05-03,39.02,C136,Nigeria,234.12
+INV1287,P846,Customer-focused 6thgeneration initiative,41,2023-05-03,25.82,C110,Morocco,1058.6200000000001
+INV1191,P548,Inverse systemic portal,6,2023-05-03,35.59,C176,Uganda,213.54000000000002
+INV1423,P808,Managed national superstructure,34,2023-05-04,90.47,C196,Tanzania,3075.98
+INV1956,P606,Proactive fault-tolerant functionalities,38,2023-05-04,99.55,C127,South Africa,3782.9
+INV1475,P208,Multi-layered fresh-thinking matrix,1,2023-05-05,88.41,C111,Kenya,88.41
+INV1510,P483,Devolved interactive project,36,2023-05-06,12.47,C123,Kenya,448.92
+INV1053,P567,Pre-emptive interactive ability,47,2023-05-07,85.22,C154,Nigeria,4005.34
+INV1208,P840,Total motivating solution,39,2023-05-10,27.96,C112,Kenya,1090.44
+INV1964,P448,Self-enabling impactful knowledge user,17,2023-05-10,17.88,C146,Tanzania,303.96
+INV1722,P517,Universal executive groupware,31,2023-05-11,1.89,C170,Kenya,58.589999999999996
+INV1503,P457,Universal holistic forecast,36,2023-05-12,56.06,C171,Kenya,2018.16
+INV1392,P259,Open-architected explicit architecture,42,2023-05-14,1.94,C195,South Africa,81.48
+INV1481,P306,User-friendly radical service-desk,3,2023-05-14,86.58,C153,Egypt,259.74
+INV1662,P327,De-engineered uniform encryption,8,2023-05-14,47.55,C187,Ghana,380.4
+INV1003,P959,Advanced regional secured line,43,2023-05-16,37.17,C128,South Africa,1598.3100000000002
+INV1108,P450,Optional hybrid adapter,8,2023-05-16,38.5,C122,Nigeria,308.0
+INV1023,P227,Multi-layered systemic process improvement,21,2023-05-17,53.97,C135,Ghana,1133.37
+INV1382,P948,Sharable asynchronous success,40,2023-05-17,43.25,C181,Ghana,1730.0
+INV1411,P390,Progressive asynchronous interface,36,2023-05-20,91.12,C114,Ghana,3280.32
+INV1694,P793,Cross-group leadingedge hierarchy,3,2023-05-20,79.5,C172,South Africa,238.5
+INV1017,P230,Compatible methodical paradigm,2,2023-05-21,1.52,C138,South Africa,3.04
+INV1552,P998,Streamlined executive projection,35,2023-05-21,30.54,C162,Ghana,1068.8999999999999
+INV1194,P645,Virtual empowering ability,9,2023-05-21,38.39,C193,Ghana,345.51
+INV1051,P589,User-friendly client-server architecture,20,2023-05-24,79.63,C120,Tanzania,1592.6
+INV1061,P670,Self-enabling 24hour parallelism,36,2023-05-24,72.44,C129,Tanzania,2607.84
+INV1474,P741,Polarized actuating frame,45,2023-05-24,7.09,C152,Ghana,319.05
+INV1744,P609,Cross-group impactful help-desk,28,2023-05-25,70.83,C114,Morocco,1983.24
+INV1362,P442,User-centric asymmetric pricing structure,35,2023-05-26,79.74,C114,South Africa,2790.8999999999996
+INV1636,P594,Organized fresh-thinking definition,23,2023-05-26,13.3,C134,Kenya,305.90000000000003
+INV1677,P880,Quality-focused mobile toolset,39,2023-05-26,21.15,C186,Nigeria,824.8499999999999
+INV1026,P933,Quality-focused hybrid firmware,22,2023-05-27,21.3,C128,Ghana,468.6
+INV1955,P584,Distributed user-facing installation,18,2023-05-31,36.93,C127,Kenya,664.74
+INV1673,P767,Seamless 5thgeneration service-desk,6,2023-06-01,9.07,C106,Kenya,54.42
+INV1448,P274,Triple-buffered 4thgeneration benchmark,47,2023-06-01,46.87,C177,Tanzania,2202.89
+INV1973,P323,Face-to-face coherent hub,25,2023-06-01,12.86,C155,Egypt,321.5
+INV1535,P765,Open-source system-worthy matrix,43,2023-06-02,45.15,C173,Uganda,1941.45
+INV1263,P405,Visionary asymmetric Local Area Network,40,2023-06-03,51.73,C173,Egypt,2069.2
+INV1333,P1082,Quality-focused national toolset,22,2023-06-04,80.94,C128,Kenya,1780.6799999999998
+INV1911,P253,Focused 24hour secured line,26,2023-06-04,47.82,C109,South Africa,1243.32
+INV1040,P363,Realigned mobile productivity,21,2023-06-05,45.97,C131,Ghana,965.37
+INV1148,P751,Centralized object-oriented Local Area Network,26,2023-06-06,17.39,C126,Tanzania,452.14
+INV1859,P424,Devolved secondary projection,30,2023-06-07,48.44,C179,Ghana,1453.1999999999998
+INV1157,P341,Decentralized user-facing product,37,2023-06-09,21.35,C105,Ghana,789.95
+INV1416,P1082,Up-sized fresh-thinking encryption,46,2023-06-09,95.69,C142,South Africa,4401.74
+INV1834,P988,Operative secondary success,17,2023-06-10,76.18,C112,Nigeria,1295.0600000000002
+INV1695,P821,Extended multi-state migration,13,2023-06-11,65.85,C151,Ethiopia,856.05
+INV1240,P949,Upgradable fresh-thinking artificial intelligence,11,2023-06-11,87.77,C133,Egypt,965.4699999999999
+INV1435,P885,Grass-roots regional functionalities,43,2023-06-11,95.77,C119,Morocco,4118.11
+INV1598,P428,Intuitive executive workforce,17,2023-06-13,59.44,C131,Egypt,1010.48
+INV1815,P354,Distributed foreground collaboration,1,2023-06-14,87.91,C183,Morocco,87.91
+INV1799,P733,Down-sized bandwidth-monitored customer loyalty,3,2023-06-16,58.14,C123,South Africa,174.42000000000002
+INV1197,P203,Cross-platform human-resource structure,42,2023-06-17,30.11,C113,South Africa,1264.62
+INV1418,P613,Enterprise-wide optimal knowledgebase,14,2023-06-18,26.64,C116,Morocco,372.96000000000004
+INV1830,P411,Exclusive bottom-line encryption,44,2023-06-18,2.45,C105,Tanzania,107.80000000000001
+INV1033,P803,Function-based analyzing standardization,16,2023-06-18,77.01,C170,Uganda,1232.16
+INV1206,P308,Total empowering function,49,2023-06-20,8.47,C192,Nigeria,415.03000000000003
+INV1238,P280,Ergonomic asynchronous middleware,6,2023-06-20,84.96,C155,Egypt,509.76
+INV1780,P936,Re-engineered attitude-oriented algorithm,25,2023-06-20,16.46,C153,South Africa,411.5
+INV1960,P806,Persevering global extranet,37,2023-06-21,9.79,C192,Ghana,362.22999999999996
+INV1751,P1081,Self-enabling disintermediate architecture,33,2023-06-21,13.17,C104,Uganda,434.61
+INV1514,P989,Innovative analyzing pricing structure,19,2023-06-22,13.72,C110,Morocco,260.68
+INV1875,P837,Synergized non-volatile methodology,13,2023-06-24,86.08,C107,Ghana,1119.04
+INV1812,P753,Operative responsive capacity,45,2023-06-24,92.64,C180,Ethiopia,4168.8
+INV1526,P314,Virtual client-server algorithm,32,2023-06-26,17.47,C156,Tanzania,559.04
+INV1117,P901,Front-line reciprocal utilization,7,2023-06-26,60.25,C124,Ethiopia,421.75
+INV1959,P277,Programmable 3rdgeneration standardization,25,2023-06-27,58.47,C129,South Africa,1461.75
+INV1619,P1098,Programmable executive benchmark,16,2023-06-27,35.26,C171,Tanzania,564.16
+INV1460,P557,Persevering didactic leverage,26,2023-06-28,4.51,C118,South Africa,117.25999999999999
+INV1703,P723,Synchronized systematic groupware,45,2023-06-28,77.82,C129,Egypt,3501.8999999999996
+INV1190,P856,Re-engineered optimal focus group,39,2023-06-29,80.18,C163,Tanzania,3127.0200000000004
+INV1716,P543,Ergonomic scalable open architecture,18,2023-06-29,66.6,C188,Ghana,1198.8
+INV1645,P1025,Advanced tertiary strategy,44,2023-06-29,78.56,C182,Tanzania,3456.6400000000003
+INV1620,P467,Reverse-engineered static protocol,5,2023-06-30,77.8,C142,Ghana,389.0
+INV1723,P430,Down-sized tertiary migration,1,2023-07-01,59.25,C140,South Africa,59.25
+INV1665,P719,Virtual static concept,1,2023-07-01,43.93,C107,South Africa,43.93
+INV1264,P930,Switchable national projection,1,2023-07-03,74.43,C141,Morocco,74.43
+INV1292,P1080,Future-proofed motivating interface,3,2023-07-03,41.03,C191,Uganda,123.09
+INV1580,P1006,Secured motivating middleware,48,2023-07-04,45.92,C162,Ghana,2204.16
+INV1733,P986,Customer-focused context-sensitive flexibility,38,2023-07-06,15.43,C169,Ethiopia,586.34
+INV1894,P416,Horizontal attitude-oriented Graphic Interface,27,2023-07-09,18.3,C137,Kenya,494.1
+INV1530,P758,Mandatory radical artificial intelligence,12,2023-07-11,6.73,C113,Uganda,80.76
+INV1899,P588,Monitored bandwidth-monitored structure,21,2023-07-11,26.31,C198,Ghana,552.51
+INV1638,P394,Function-based heuristic system engine,43,2023-07-12,59.88,C152,Uganda,2574.84
+INV1085,P1087,Implemented transitional flexibility,16,2023-07-13,7.6,C108,South Africa,121.6
+INV1839,P983,Progressive heuristic extranet,37,2023-07-14,91.51,C125,Ghana,3385.8700000000003
+INV1963,P842,Enterprise-wide background utilization,39,2023-07-17,75.73,C186,South Africa,2953.4700000000003
+INV1326,P861,Synchronized dynamic benchmark,7,2023-07-20,8.52,C124,Ghana,59.64
+INV1482,P1099,Business-focused background parallelism,12,2023-07-22,73.66,C146,Nigeria,883.92
+INV1498,P849,Devolved uniform encoding,26,2023-07-22,1.51,C200,Rwanda,39.26
+INV1554,P1095,Exclusive systemic instruction set,17,2023-07-24,77.51,C103,Rwanda,1317.67
+INV1871,P369,Visionary transitional software,5,2023-07-24,97.7,C147,Nigeria,488.5
+INV1312,P394,Fully-configurable 6thgeneration installation,18,2023-07-25,54.44,C181,Tanzania,979.92
+INV1660,P879,Organic contextually-based emulation,38,2023-07-26,61.96,C164,Kenya,2354.48
+INV1970,P900,Secured radical software,17,2023-07-26,98.14,C132,Morocco,1668.38
+INV1410,P1071,Front-line bandwidth-monitored paradigm,7,2023-07-27,28.45,C189,Nigeria,199.15
+INV1155,P570,Optional 5thgeneration open system,4,2023-07-28,38.55,C168,Ghana,154.2
+INV1081,P496,Intuitive attitude-oriented core,14,2023-07-30,58.17,C195,Ethiopia,814.38
+INV1838,P1077,Down-sized full-range definition,15,2023-07-30,84.87,C152,Tanzania,1273.0500000000002
+INV1356,P753,Universal optimizing monitoring,44,2023-07-30,31.97,C158,Tanzania,1406.6799999999998
+INV1874,P330,Distributed modular installation,2,2023-07-31,13.2,C182,Ethiopia,26.4
+INV1427,P629,Proactive neutral data-warehouse,22,2023-08-01,40.76,C196,South Africa,896.7199999999999
+INV1765,P1068,Customizable coherent access,2,2023-08-03,32.99,C145,Kenya,65.98
+INV1961,P907,Digitized 24hour system engine,28,2023-08-05,96.2,C150,Ghana,2693.6
+INV1037,P206,Enterprise-wide holistic contingency,3,2023-08-07,32.74,C110,Nigeria,98.22
+INV1528,P907,Secured analyzing conglomeration,20,2023-08-08,71.15,C157,Egypt,1423.0
+INV1444,P507,Balanced mobile project,6,2023-08-09,52.01,C125,South Africa,312.06
+INV1127,P523,Adaptive transitional alliance,35,2023-08-09,61.88,C143,Kenya,2165.8
+INV1047,P981,Optional foreground success,50,2023-08-11,1.27,C171,South Africa,63.5
+INV1611,P721,Object-based static benchmark,12,2023-08-13,72.7,C108,South Africa,872.4000000000001
+INV1652,P401,Synchronized well-modulated strategy,42,2023-08-13,48.61,C118,Kenya,2041.62
+INV1584,P1093,Operative foreground attitude,39,2023-08-13,30.12,C149,Kenya,1174.68
+INV1739,P399,Universal modular protocol,36,2023-08-15,38.56,C119,Egypt,1388.16
+INV1480,P879,Triple-buffered system-worthy customer loyalty,29,2023-08-16,54.83,C187,Egypt,1590.07
+INV1712,P727,Re-contextualized intangible productivity,36,2023-08-17,10.64,C129,Kenya,383.04
+INV1293,P538,Implemented multi-tasking process improvement,20,2023-08-17,77.32,C105,Nigeria,1546.3999999999999
+INV1275,P430,Polarized fault-tolerant structure,16,2023-08-18,53.44,C139,Kenya,855.04
+INV1798,P996,Face-to-face explicit time-frame,38,2023-08-19,67.03,C195,Egypt,2547.14
+INV1906,P283,Team-oriented local portal,6,2023-08-20,15.82,C108,South Africa,94.92
+INV1924,P220,Assimilated next generation interface,30,2023-08-21,67.91,C195,Nigeria,2037.3
+INV1249,P875,Right-sized intermediate portal,20,2023-08-22,83.23,C182,Ghana,1664.6000000000001
+INV1006,P428,Assimilated 4thgeneration function,39,2023-08-23,9.7,C149,Uganda,378.29999999999995
+INV1368,P1085,Synergized directional portal,46,2023-08-26,65.37,C126,Nigeria,3007.0200000000004
+INV1650,P954,Progressive needs-based infrastructure,13,2023-08-27,60.15,C177,Nigeria,781.9499999999999
+INV1338,P749,Multi-layered even-keeled challenge,45,2023-08-27,9.58,C161,Ghana,431.1
+INV1597,P433,User-centric 4thgeneration Graphic Interface,30,2023-08-27,33.27,C101,Nigeria,998.1000000000001
+INV1408,P720,Exclusive user-facing hardware,24,2023-08-28,71.84,C150,South Africa,1724.16
+INV1938,P577,Optional dedicated architecture,26,2023-08-30,40.72,C139,Nigeria,1058.72
+INV1621,P382,Streamlined motivating approach,35,2023-08-31,94.18,C112,Rwanda,3296.3
+INV1393,P793,Progressive optimizing archive,2,2023-08-31,6.22,C111,Uganda,12.44
+INV1358,P215,User-friendly bottom-line workforce,30,2023-09-01,73.37,C110,Ethiopia,2201.1000000000004
+INV1748,P904,Fully-configurable incremental productivity,27,2023-09-01,54.45,C178,Ethiopia,1470.15
+INV1851,P751,Function-based demand-driven core,30,2023-09-01,82.42,C199,South Africa,2472.6
+INV1174,P590,Down-sized coherent synergy,28,2023-09-02,31.84,C195,Morocco,891.52
+INV1094,P579,Up-sized uniform software,29,2023-09-03,50.05,C161,Morocco,1451.4499999999998
+INV1098,P473,Innovative high-level website,25,2023-09-04,75.49,C146,Morocco,1887.2499999999998
+INV1602,P608,Fundamental exuding orchestration,25,2023-09-04,47.0,C133,Egypt,1175.0
+INV1319,P620,Devolved demand-driven forecast,4,2023-09-06,47.95,C164,Nigeria,191.8
+INV1176,P679,Integrated object-oriented middleware,44,2023-09-08,28.48,C156,Nigeria,1253.1200000000001
+INV1257,P633,Extended global encoding,7,2023-09-08,12.31,C160,Egypt,86.17
+INV1540,P515,Grass-roots tertiary analyzer,33,2023-09-09,82.33,C122,Tanzania,2716.89
+INV1332,P1019,Robust well-modulated matrices,22,2023-09-09,32.15,C166,Nigeria,707.3
+INV1600,P875,Re-engineered eco-centric attitude,20,2023-09-11,98.45,C114,Ghana,1969.0
+INV1062,P749,Inverse intangible utilization,50,2023-09-11,5.76,C111,Morocco,288.0
+INV1277,P546,Universal 24/7 analyzer,48,2023-09-12,50.31,C172,Nigeria,2414.88
+INV1451,P836,Seamless zero administration analyzer,16,2023-09-12,4.45,C187,South Africa,71.2
+INV1066,P765,Up-sized object-oriented toolset,6,2023-09-12,80.15,C102,Ghana,480.90000000000003
+INV1766,P324,Future-proofed directional product,10,2023-09-13,97.34,C129,Kenya,973.4000000000001
+INV1559,P442,Multi-layered 3rdgeneration Internet solution,10,2023-09-13,4.1,C171,Egypt,41.0
+INV1468,P756,Reverse-engineered even-keeled software,47,2023-09-13,5.83,C106,Uganda,274.01
+INV1241,P697,Stand-alone neutral interface,48,2023-09-19,64.65,C119,Morocco,3103.2000000000003
+INV1770,P675,Decentralized 24/7 moratorium,5,2023-09-20,34.92,C131,South Africa,174.60000000000002
+INV1976,P1001,Integrated multi-state open system,3,2023-09-22,73.98,C172,Nigeria,221.94
+INV1205,P719,Customer-focused dedicated capacity,49,2023-09-23,34.1,C200,South Africa,1670.9
+INV1492,P819,Profit-focused mobile interface,49,2023-09-23,70.2,C161,Ghana,3439.8
+INV1458,P471,Reactive systematic analyzer,19,2023-09-24,5.39,C113,Nigeria,102.41
+INV1808,P440,Cross-group grid-enabled knowledge user,14,2023-09-25,29.58,C103,Kenya,414.12
+INV1395,P755,Down-sized scalable approach,17,2023-09-25,4.72,C103,Ghana,80.24
+INV1126,P1024,Universal multi-tasking interface,37,2023-09-26,29.51,C194,South Africa,1091.8700000000001
+INV1902,P1051,Configurable intermediate algorithm,28,2023-09-27,85.27,C193,Uganda,2387.56
+INV1225,P700,Integrated real-time challenge,2,2023-09-27,72.36,C142,Uganda,144.72
+INV1905,P1054,Function-based background success,21,2023-09-27,76.9,C173,South Africa,1614.9
+INV1889,P386,Persistent client-driven approach,4,2023-09-29,64.16,C136,South Africa,256.64
+INV1431,P735,Centralized zero-defect initiative,49,2023-09-29,12.91,C155,South Africa,632.59
+INV1847,P599,Enterprise-wide mobile solution,38,2023-09-29,55.39,C198,Rwanda,2104.82
+INV1764,P455,Fully-configurable maximized hardware,25,2023-09-29,2.72,C124,Ghana,68.0
+INV1603,P536,Networked discrete open system,22,2023-09-30,68.37,C101,South Africa,1504.14
+INV1908,P219,Reverse-engineered bifurcated methodology,5,2023-10-03,16.15,C183,Kenya,80.75
+INV1212,P719,Synergistic needs-based methodology,37,2023-10-03,97.91,C151,Ethiopia,3622.67
+INV1579,P363,Expanded fault-tolerant contingency,35,2023-10-04,16.21,C116,Kenya,567.35
+INV1282,P802,Visionary optimal process improvement,12,2023-10-05,11.55,C164,Tanzania,138.60000000000002
+INV1407,P258,Programmable analyzing challenge,25,2023-10-06,85.43,C131,Nigeria,2135.75
+INV1222,P200,Phased 3rdgeneration toolset,33,2023-10-06,57.37,C187,Egypt,1893.2099999999998
+INV1531,P236,Managed motivating initiative,50,2023-10-09,8.39,C136,Nigeria,419.5
+INV1990,P1042,Ameliorated cohesive portal,19,2023-10-10,34.83,C162,Uganda,661.77
+INV1063,P327,Innovative tangible budgetary management,40,2023-10-11,78.37,C120,Rwanda,3134.8
+INV1149,P469,Expanded upward-trending policy,42,2023-10-12,19.45,C110,Tanzania,816.9
+INV1550,P305,Focused client-driven strategy,2,2023-10-14,53.18,C198,Ghana,106.36
+INV1364,P616,Open-architected exuding matrices,37,2023-10-14,6.43,C198,Rwanda,237.91
+INV1532,P1054,Managed secondary superstructure,35,2023-10-14,85.39,C167,Nigeria,2988.65
+INV1589,P404,Horizontal heuristic conglomeration,37,2023-10-15,1.12,C143,Nigeria,41.440000000000005
+INV1849,P1055,Proactive content-based service-desk,34,2023-10-16,71.83,C153,Kenya,2442.22
+INV1302,P335,Centralized holistic flexibility,40,2023-10-17,44.28,C108,Tanzania,1771.2
+INV1072,P570,Reactive foreground initiative,44,2023-10-19,32.3,C113,South Africa,1421.1999999999998
+INV1134,P935,De-engineered dedicated implementation,35,2023-10-21,11.12,C131,Rwanda,389.2
+INV1313,P296,Multi-lateral heuristic alliance,2,2023-10-26,17.04,C191,South Africa,34.08
+INV1877,P227,Proactive upward-trending installation,43,2023-10-26,19.27,C146,Nigeria,828.61
+INV1394,P953,De-engineered dedicated matrices,26,2023-10-26,9.77,C124,Ghana,254.01999999999998
+INV1865,P544,Profound intangible hierarchy,10,2023-10-29,93.03,C134,Nigeria,930.3
+INV1805,P279,Programmable cohesive application,19,2023-10-29,99.34,C124,Uganda,1887.46
+INV1721,P888,Diverse intangible project,15,2023-10-29,85.94,C197,Tanzania,1289.1
+INV1542,P1015,Team-oriented high-level Graphical User Interface,10,2023-10-30,82.06,C123,Ghana,820.6
+INV1088,P484,Cross-platform even-keeled application,47,2023-10-30,43.72,C115,Ghana,2054.84
+INV1850,P629,Down-sized attitude-oriented attitude,18,2023-11-01,52.6,C151,Nigeria,946.8000000000001
+INV1457,P718,Secured system-worthy model,17,2023-11-03,48.19,C115,Ghana,819.23
+INV1940,P820,Managed intangible complexity,23,2023-11-03,35.01,C161,South Africa,805.2299999999999
+INV1016,P232,Vision-oriented responsive array,22,2023-11-03,91.82,C162,Tanzania,2020.04
+INV1080,P991,Fundamental bottom-line standardization,8,2023-11-05,44.44,C106,South Africa,355.52
+INV1692,P640,Function-based executive throughput,39,2023-11-06,61.01,C190,Ethiopia,2379.39
+INV1438,P444,Triple-buffered 3rdgeneration alliance,8,2023-11-08,63.35,C146,Kenya,506.8
+INV1316,P641,Optimized well-modulated instruction set,41,2023-11-08,95.57,C145,South Africa,3918.37
+INV1718,P1038,Reverse-engineered 3rdgeneration strategy,41,2023-11-11,65.56,C159,Ghana,2687.96
+INV1354,P251,Business-focused value-added solution,49,2023-11-11,56.02,C131,Kenya,2744.98
+INV1882,P227,Face-to-face demand-driven conglomeration,16,2023-11-12,43.03,C194,Nigeria,688.48
+INV1429,P797,Decentralized composite parallelism,22,2023-11-12,23.83,C110,Nigeria,524.26
+INV1644,P732,Networked empowering standardization,10,2023-11-13,62.91,C182,Nigeria,629.0999999999999
+INV1185,P898,Reduced real-time policy,1,2023-11-13,19.26,C155,South Africa,19.26
+INV1151,P798,Expanded national extranet,32,2023-11-14,33.88,C184,Kenya,1084.16
+INV1169,P896,Innovative encompassing customer loyalty,28,2023-11-14,91.36,C168,Nigeria,2558.08
+INV1305,P790,Enhanced mobile toolset,48,2023-11-15,61.43,C125,Tanzania,2948.64
+INV1013,P289,Enterprise-wide attitude-oriented frame,40,2023-11-17,99.73,C189,Nigeria,3989.2000000000003
+INV1421,P452,Intuitive radical customer loyalty,15,2023-11-18,88.54,C149,South Africa,1328.1000000000001
+INV1059,P244,Pre-emptive secondary superstructure,14,2023-11-19,38.54,C198,South Africa,539.56
+INV1397,P965,Assimilated coherent artificial intelligence,33,2023-11-19,58.49,C157,South Africa,1930.17
+INV1702,P418,Business-focused real-time complexity,44,2023-11-21,24.34,C138,South Africa,1070.96
+INV1107,P946,Cross-group directional extranet,17,2023-11-21,54.11,C121,Ghana,919.87
+INV1735,P666,Re-engineered motivating solution,24,2023-11-22,59.2,C165,Rwanda,1420.8000000000002
+INV1623,P471,Enhanced maximized installation,25,2023-11-22,53.89,C133,Kenya,1347.25
+INV1405,P743,Centralized systemic middleware,35,2023-11-22,47.26,C114,Ethiopia,1654.1
+INV1807,P492,Team-oriented optimal adapter,21,2023-11-23,9.96,C138,Ghana,209.16000000000003
+INV1582,P310,Enterprise-wide client-driven orchestration,18,2023-11-23,2.77,C128,Nigeria,49.86
+INV1750,P968,Re-contextualized attitude-oriented open architecture,9,2023-11-24,98.68,C189,Kenya,888.1200000000001
+INV1281,P435,Multi-tiered dynamic model,48,2023-11-24,72.3,C107,Nigeria,3470.3999999999996
+INV1977,P242,Synchronized upward-trending conglomeration,41,2023-11-24,77.09,C193,Uganda,3160.69
+INV1577,P454,Integrated executive knowledgebase,35,2023-11-26,21.17,C109,Tanzania,740.95
+INV1276,P265,Team-oriented didactic groupware,26,2023-11-26,81.69,C132,Nigeria,2123.94
+INV1693,P1004,Centralized demand-driven synergy,1,2023-11-27,60.17,C135,South Africa,60.17
+INV1670,P612,Phased 6thgeneration knowledge user,45,2023-11-28,33.9,C151,Rwanda,1525.5
+INV1988,P1069,De-engineered bottom-line pricing structure,49,2023-11-30,12.65,C181,Tanzania,619.85
+INV1159,P705,Profit-focused bifurcated functionalities,39,2023-12-01,60.77,C148,Uganda,2370.03
+INV1404,P1073,Robust multimedia concept,26,2023-12-01,1.33,C141,Kenya,34.58
+INV1306,P684,Operative asymmetric open system,25,2023-12-02,94.98,C192,Nigeria,2374.5
+INV1447,P969,Self-enabling maximized archive,30,2023-12-02,89.85,C107,Kenya,2695.5
+INV1657,P538,Business-focused heuristic website,5,2023-12-06,59.73,C145,Ghana,298.65
+INV1745,P449,Switchable exuding functionalities,37,2023-12-06,45.19,C108,Ghana,1672.03
+INV1837,P220,Focused local utilization,23,2023-12-06,95.2,C102,Nigeria,2189.6
+INV1509,P1049,Multi-layered multi-state ability,5,2023-12-06,56.42,C146,Ghana,282.1
+INV1346,P1095,Programmable non-volatile ability,28,2023-12-10,90.43,C163,Ghana,2532.04
+INV1761,P675,Intuitive 24hour attitude,18,2023-12-10,40.34,C144,Ghana,726.1200000000001
+INV1219,P752,Implemented real-time archive,23,2023-12-10,51.05,C193,Kenya,1174.1499999999999
+INV1691,P415,Face-to-face exuding capacity,41,2023-12-11,40.16,C111,Uganda,1646.56
+INV1821,P419,Devolved composite support,31,2023-12-13,33.51,C108,Ghana,1038.81
+INV1663,P937,Right-sized dynamic info-mediaries,48,2023-12-15,74.68,C163,South Africa,3584.6400000000003
+INV1811,P527,Extended multi-tasking solution,1,2023-12-17,76.75,C165,Tanzania,76.75
+INV1918,P241,Stand-alone discrete implementation,27,2023-12-19,26.43,C105,Nigeria,713.61
+INV1573,P885,Face-to-face 6thgeneration superstructure,10,2023-12-19,56.71,C138,Tanzania,567.1
+INV1340,P343,Triple-buffered bandwidth-monitored initiative,27,2023-12-21,76.08,C191,Ghana,2054.16
+INV1199,P1096,Fully-configurable intermediate focus group,24,2023-12-22,53.24,C161,South Africa,1277.76
+INV1749,P205,Optional mission-critical algorithm,17,2023-12-22,4.38,C184,Uganda,74.46
+INV1769,P1020,Exclusive static strategy,45,2023-12-25,52.65,C154,Ghana,2369.25
+INV1057,P470,Persevering bifurcated productivity,47,2023-12-26,99.1,C149,South Africa,4657.7
+INV1786,P362,Monitored object-oriented encryption,34,2023-12-26,38.06,C165,South Africa,1294.04
+INV1035,P1028,Cross-group client-driven success,47,2023-12-26,51.1,C150,Ghana,2401.7000000000003
+INV1633,P820,Automated coherent circuit,31,2023-12-27,5.08,C140,Kenya,157.48
+INV1527,P277,Open-architected solution-oriented core,27,2023-12-29,77.33,C159,Kenya,2087.91
+INV1616,P539,Focused secondary throughput,31,2023-12-30,2.82,C187,Tanzania,87.42
+INV1452,P776,Assimilated dynamic utilization,13,2023-12-31,89.6,C133,Tanzania,1164.8
+INV1711,P490,Up-sized neutral approach,37,2024-01-01,44.28,C168,Ethiopia,1638.3600000000001
+INV1425,P834,Re-contextualized coherent function,32,2024-01-02,74.59,C138,Ghana,2386.88
+INV1594,P1040,Fundamental reciprocal alliance,25,2024-01-02,23.33,C105,Morocco,583.25
+INV1568,P954,Enterprise-wide clear-thinking middleware,29,2024-01-03,72.72,C104,Kenya,2108.88
+INV1627,P644,Open-architected exuding process improvement,16,2024-01-03,36.42,C192,Egypt,582.72
+INV1233,P445,Profound 24/7 model,17,2024-01-04,41.23,C149,Tanzania,700.91
+INV1861,P646,User-friendly tangible productivity,17,2024-01-05,17.47,C174,Tanzania,296.99
+INV1106,P746,Right-sized content-based structure,11,2024-01-05,11.19,C195,Nigeria,123.08999999999999
+INV1260,P973,Intuitive contextually-based firmware,40,2024-01-08,47.64,C145,Kenya,1905.6
+INV1683,P782,Synergized non-volatile conglomeration,3,2024-01-09,63.25,C190,South Africa,189.75
+INV1114,P904,Enterprise-wide client-server hierarchy,39,2024-01-10,41.49,C146,Nigeria,1618.1100000000001
+INV1014,P804,Horizontal system-worthy ability,24,2024-01-12,89.76,C125,Nigeria,2154.2400000000002
+INV1239,P287,Ameliorated clear-thinking array,22,2024-01-12,13.15,C146,Kenya,289.3
+INV1311,P616,Managed web-enabled emulation,46,2024-01-13,27.72,C101,Morocco,1275.12
+INV1321,P1084,Open-architected foreground productivity,14,2024-01-13,35.8,C126,Tanzania,501.19999999999993
+INV1898,P979,Organized intangible moderator,19,2024-01-14,56.11,C139,Ethiopia,1066.09
+INV1895,P665,Multi-tiered zero tolerance flexibility,29,2024-01-15,36.72,C189,Rwanda,1064.8799999999999
+INV1207,P1091,Front-line optimizing solution,12,2024-01-16,75.57,C147,Uganda,906.8399999999999
+INV1375,P471,Function-based non-volatile standardization,33,2024-01-17,41.04,C197,Rwanda,1354.32
+INV1286,P924,Pre-emptive exuding contingency,9,2024-01-17,73.49,C144,Nigeria,661.41
+INV1485,P318,Automated national functionalities,37,2024-01-17,25.28,C148,South Africa,935.36
+INV1685,P615,Future-proofed homogeneous capacity,13,2024-01-18,77.0,C181,Ghana,1001.0
+INV1788,P1082,Integrated content-based task-force,35,2024-01-20,25.17,C156,Nigeria,880.95
+INV1814,P341,Balanced client-server conglomeration,4,2024-01-20,90.24,C129,Nigeria,360.96
+INV1350,P1082,Expanded encompassing concept,48,2024-01-21,67.32,C184,Kenya,3231.3599999999997
+INV1785,P656,Implemented intermediate support,33,2024-01-23,97.88,C126,South Africa,3230.04
+INV1717,P295,Pre-emptive maximized open architecture,47,2024-01-23,10.43,C134,Tanzania,490.21
+INV1897,P545,Self-enabling asymmetric benchmark,50,2024-01-26,77.22,C190,South Africa,3861.0
+INV1565,P622,Robust stable monitoring,50,2024-01-27,44.79,C141,Ethiopia,2239.5
+INV1523,P637,Fully-configurable local ability,2,2024-01-27,18.2,C110,Nigeria,36.4
+INV1018,P295,Enhanced demand-driven contingency,24,2024-01-27,97.53,C103,Egypt,2340.7200000000003
+INV1007,P342,Configurable object-oriented task-force,19,2024-01-28,80.78,C144,Nigeria,1534.82
+INV1261,P947,Optimized responsive attitude,39,2024-01-28,19.03,C153,Egypt,742.1700000000001
+INV1551,P562,Adaptive disintermediate parallelism,50,2024-01-28,82.77,C182,Nigeria,4138.5
+INV1056,P818,Configurable discrete Local Area Network,8,2024-01-29,93.36,C122,Kenya,746.88
+INV1776,P973,Secured local moratorium,49,2024-01-31,73.56,C199,Egypt,3604.44
+INV1096,P414,User-centric scalable methodology,45,2024-01-31,57.74,C123,Kenya,2598.3
+INV1893,P535,Business-focused multi-state forecast,3,2024-02-01,65.01,C113,Ethiopia,195.03000000000003
+INV1109,P367,Vision-oriented 4thgeneration superstructure,35,2024-02-01,46.24,C167,Ghana,1618.4
+INV1928,P329,Multi-lateral interactive product,26,2024-02-01,2.57,C181,Ethiopia,66.82
+INV1615,P749,Synchronized methodical contingency,14,2024-02-02,57.52,C193,South Africa,805.2800000000001
+INV1578,P473,Cloned intermediate Local Area Network,49,2024-02-02,10.03,C106,Nigeria,491.46999999999997
+INV1984,P718,Synergized multimedia website,34,2024-02-02,61.24,C180,Egypt,2082.16
+INV1728,P247,Re-engineered zero administration forecast,12,2024-02-05,88.49,C180,Kenya,1061.8799999999999
+INV1160,P293,Multi-channeled analyzing Internet solution,45,2024-02-05,12.31,C166,Uganda,553.95
+INV1087,P589,Visionary upward-trending portal,18,2024-02-06,54.74,C106,Egypt,985.32
+INV1854,P759,Synchronized asymmetric moratorium,34,2024-02-07,8.06,C148,Kenya,274.04
+INV1400,P251,Automated 24hour middleware,48,2024-02-07,10.08,C107,Egypt,483.84000000000003
+INV1385,P877,Focused global framework,50,2024-02-08,46.73,C102,Nigeria,2336.5
+INV1942,P965,Fundamental 24hour customer loyalty,24,2024-02-09,44.8,C195,Kenya,1075.1999999999998
+INV1520,P652,Fully-configurable directional open architecture,16,2024-02-09,18.77,C107,Egypt,300.32
+INV1453,P302,Ameliorated optimizing policy,50,2024-02-10,86.15,C115,Ethiopia,4307.5
+INV1688,P200,Phased grid-enabled capability,20,2024-02-10,51.89,C148,South Africa,1037.8
+INV1986,P549,Innovative client-server strategy,8,2024-02-11,16.77,C156,Kenya,134.16
+INV1884,P858,Seamless local model,11,2024-02-12,81.76,C199,Ghana,899.36
+INV1132,P780,Extended explicit intranet,35,2024-02-12,72.88,C108,Uganda,2550.7999999999997
+INV1484,P470,Team-oriented coherent installation,16,2024-02-15,86.95,C107,Kenya,1391.2
+INV1297,P485,Expanded 5thgeneration product,11,2024-02-15,19.25,C115,South Africa,211.75
+INV1142,P346,Implemented 5thgeneration pricing structure,14,2024-02-16,8.65,C151,Ethiopia,121.10000000000001
+INV1462,P450,Monitored well-modulated emulation,26,2024-02-19,93.23,C103,Egypt,2423.98
+INV1422,P792,Open-source regional moratorium,28,2024-02-21,60.48,C141,Ethiopia,1693.4399999999998
+INV1336,P396,Self-enabling 24/7 workforce,38,2024-02-24,69.37,C175,Ghana,2636.0600000000004
+INV1840,P789,Monitored scalable initiative,21,2024-02-24,81.56,C115,Kenya,1712.76
+INV1042,P632,Networked modular encryption,39,2024-02-26,55.34,C148,Ethiopia,2158.26
+INV1544,P240,Versatile neutral architecture,44,2024-02-26,1.1,C185,Uganda,48.400000000000006
+INV1372,P588,Fully-configurable even-keeled extranet,21,2024-02-27,88.61,C175,Rwanda,1860.81
+INV1921,P453,Multi-layered bottom-line customer loyalty,47,2024-02-28,15.04,C200,Egypt,706.88
+INV1782,P636,Grass-roots didactic strategy,27,2024-02-28,96.37,C182,Kenya,2601.9900000000002
+INV1139,P605,Cloned bandwidth-monitored task-force,1,2024-03-01,77.35,C169,Ghana,77.35
+INV1278,P221,Switchable value-added superstructure,49,2024-03-02,7.65,C176,Nigeria,374.85
+INV1931,P317,Cloned responsive time-frame,8,2024-03-04,60.72,C115,Kenya,485.76
+INV1274,P453,Balanced analyzing initiative,7,2024-03-05,82.44,C186,Morocco,577.0799999999999
+INV1779,P1034,Face-to-face client-server parallelism,26,2024-03-05,73.35,C139,Kenya,1907.1
+INV1359,P295,Up-sized 3rdgeneration adapter,29,2024-03-05,20.07,C130,Tanzania,582.03
+INV1553,P773,Grass-roots coherent success,23,2024-03-05,84.15,C165,South Africa,1935.45
+INV1113,P855,Down-sized web-enabled access,42,2024-03-06,49.15,C101,Tanzania,2064.2999999999997
+INV1001,P314,Open-architected discrete software,29,2024-03-08,1.75,C174,Kenya,50.75
+INV1966,P913,Total asynchronous customer loyalty,22,2024-03-09,42.85,C145,Nigeria,942.7
+INV1140,P858,User-friendly multi-tasking flexibility,5,2024-03-09,38.07,C170,Tanzania,190.35
+INV1525,P209,Monitored actuating installation,28,2024-03-12,94.78,C182,Nigeria,2653.84
+INV1863,P229,Switchable empowering adapter,29,2024-03-13,52.79,C178,Morocco,1530.91
+INV1058,P1026,Object-based 5thgeneration support,35,2024-03-15,21.3,C173,Uganda,745.5
+INV1221,P743,Profound intermediate time-frame,32,2024-03-15,34.59,C188,Ghana,1106.88
+INV1828,P625,Profit-focused bi-directional array,12,2024-03-17,55.02,C129,Uganda,660.24
+INV1517,P468,Organic system-worthy collaboration,5,2024-03-19,43.79,C138,Tanzania,218.95
+INV1833,P598,Synergized transitional budgetary management,30,2024-03-20,64.62,C146,Nigeria,1938.6000000000001
+INV1179,P766,Polarized tangible paradigm,30,2024-03-20,52.0,C133,South Africa,1560.0
+INV1390,P503,Team-oriented 3rdgeneration website,2,2024-03-21,93.33,C159,Nigeria,186.66
+INV1969,P1070,Team-oriented multimedia open system,25,2024-03-21,30.78,C185,Nigeria,769.5
+INV1697,P529,Progressive transitional array,49,2024-03-23,29.1,C125,Rwanda,1425.9
+INV1171,P810,Robust multi-state portal,42,2024-03-23,58.19,C133,Kenya,2443.98
+INV1777,P653,Reverse-engineered 4thgeneration website,11,2024-03-24,17.08,C147,Nigeria,187.88
+INV1034,P484,Cloned bottom-line algorithm,15,2024-03-26,9.64,C165,Morocco,144.60000000000002
+INV1903,P631,Automated client-server system engine,42,2024-03-26,67.47,C152,Nigeria,2833.74
+INV1045,P359,Object-based asymmetric knowledgebase,25,2024-03-29,9.7,C175,Kenya,242.49999999999997
+INV1501,P717,Configurable solution-oriented software,21,2024-03-30,90.96,C161,Egypt,1910.1599999999999
+INV1533,P578,Virtual asymmetric help-desk,33,2024-04-01,99.02,C176,Morocco,3267.66
+INV1900,P484,Universal fresh-thinking capacity,5,2024-04-01,30.9,C150,Kenya,154.5
+INV1762,P251,Upgradable multimedia installation,5,2024-04-02,48.51,C142,Ghana,242.54999999999998
+INV1958,P403,Quality-focused methodical methodology,15,2024-04-04,34.02,C200,Ethiopia,510.30000000000007
+INV1419,P322,Assimilated holistic architecture,12,2024-04-05,59.27,C142,Nigeria,711.24
+INV1428,P873,Implemented object-oriented neural-net,25,2024-04-07,83.94,C186,South Africa,2098.5
+INV1800,P696,Synchronized regional standardization,23,2024-04-07,35.51,C146,Kenya,816.7299999999999
+INV1406,P361,User-centric content-based leverage,50,2024-04-08,30.4,C195,Morocco,1520.0
+INV1464,P491,Expanded contextually-based archive,9,2024-04-08,28.86,C179,Nigeria,259.74
+INV1181,P211,Switchable 24/7 system engine,28,2024-04-09,46.44,C141,Ghana,1300.32
+INV1231,P1026,Progressive dedicated utilization,4,2024-04-11,94.5,C159,Nigeria,378.0
+INV1309,P684,Optimized national concept,29,2024-04-12,14.37,C126,Kenya,416.72999999999996
+INV1376,P1002,Extended asynchronous process improvement,3,2024-04-14,57.67,C115,Kenya,173.01
+INV1992,P308,Team-oriented reciprocal utilization,41,2024-04-14,35.29,C131,Nigeria,1446.8899999999999
+INV1512,P203,Programmable responsive interface,31,2024-04-17,1.9,C146,South Africa,58.9
+INV1470,P509,Programmable logistical moderator,32,2024-04-18,96.25,C153,Morocco,3080.0
+INV1430,P778,Automated client-server info-mediaries,22,2024-04-19,83.23,C169,Uganda,1831.0600000000002
+INV1320,P678,Implemented 24/7 structure,33,2024-04-20,35.09,C143,Nigeria,1157.97
+INV1904,P458,Ameliorated interactive groupware,22,2024-04-21,81.14,C181,Nigeria,1785.08
+INV1300,P419,Upgradable maximized concept,36,2024-04-21,7.76,C180,Egypt,279.36
+INV1420,P783,Monitored multi-state capability,23,2024-04-22,98.25,C110,Ghana,2259.75
+INV1119,P1063,Self-enabling real-time help-desk,8,2024-04-27,71.9,C171,Egypt,575.2
+INV1885,P638,Innovative executive database,16,2024-04-27,37.98,C155,Rwanda,607.68
+INV1592,P558,Adaptive zero tolerance secured line,13,2024-04-28,25.51,C149,South Africa,331.63
+INV1259,P752,Centralized reciprocal orchestration,33,2024-04-28,98.55,C188,Kenya,3252.15
+INV1879,P806,Advanced leadingedge archive,11,2024-04-29,79.55,C105,Ethiopia,875.05
+INV1935,P916,Team-oriented empowering data-warehouse,47,2024-05-01,27.22,C107,Kenya,1279.34
+INV1939,P371,Down-sized neutral paradigm,28,2024-05-02,37.33,C157,Ghana,1045.24
+INV1004,P481,Innovative maximized moratorium,8,2024-05-04,49.29,C181,Morocco,394.32
+INV1655,P271,Robust mission-critical project,27,2024-05-04,44.42,C176,Nigeria,1199.3400000000001
+INV1547,P898,Balanced hybrid application,12,2024-05-05,94.49,C158,Kenya,1133.8799999999999
+INV1791,P465,Optional multimedia capacity,48,2024-05-05,77.08,C186,Uganda,3699.84
+INV1870,P941,Re-contextualized asynchronous middleware,24,2024-05-06,40.59,C178,Ghana,974.1600000000001
+INV1569,P540,Persevering attitude-oriented structure,36,2024-05-06,74.84,C175,Kenya,2694.2400000000002
+INV1825,P538,Digitized methodical encryption,34,2024-05-09,38.66,C173,Ghana,1314.4399999999998
+INV1572,P1021,Mandatory actuating product,36,2024-05-11,71.78,C135,South Africa,2584.08
+INV1700,P652,Stand-alone explicit application,38,2024-05-13,47.12,C153,Egypt,1790.56
+INV1886,P338,Enhanced regional open system,8,2024-05-15,53.12,C126,Nigeria,424.96
+INV1858,P699,Cross-platform global attitude,15,2024-05-17,20.52,C102,Egypt,307.8
+INV1646,P751,Versatile zero-defect budgetary management,17,2024-05-17,61.61,C124,Uganda,1047.37
+INV1360,P971,Progressive dynamic firmware,46,2024-05-18,12.41,C175,Ghana,570.86
+INV1642,P646,Vision-oriented 6thgeneration encoding,12,2024-05-19,93.58,C135,Tanzania,1122.96
+INV1783,P1050,Cross-group even-keeled middleware,49,2024-05-19,26.28,C181,Kenya,1287.72
+INV1323,P255,Ameliorated 6thgeneration time-frame,48,2024-05-20,70.79,C120,Kenya,3397.92
+INV1095,P563,Customizable tertiary frame,15,2024-05-21,74.4,C180,Uganda,1116.0
+INV1521,P764,Digitized dynamic access,24,2024-05-23,75.62,C184,Uganda,1814.88
+INV1230,P1051,Vision-oriented optimizing pricing structure,32,2024-05-23,96.3,C130,Uganda,3081.6
+INV1198,P939,Customizable coherent paradigm,44,2024-05-23,71.69,C198,South Africa,3154.3599999999997
+INV1743,P706,Polarized client-server info-mediaries,28,2024-05-23,78.4,C123,Kenya,2195.2000000000003
+INV1543,P1081,Synergized dynamic capability,43,2024-05-25,26.0,C111,Kenya,1118.0
+INV1099,P918,Upgradable optimal help-desk,7,2024-05-26,70.99,C145,Kenya,496.92999999999995
+INV1235,P446,Multi-tiered bi-directional capability,24,2024-05-26,9.61,C154,Ethiopia,230.64
+INV1137,P871,Front-line asymmetric attitude,14,2024-05-28,3.28,C129,South Africa,45.919999999999995
+INV1288,P260,Triple-buffered hybrid archive,35,2024-05-29,63.68,C164,Morocco,2228.8
+INV1576,P1030,Multi-lateral zero-defect pricing structure,24,2024-05-29,16.77,C157,Morocco,402.48
+INV1947,P367,Synergized 24hour concept,7,2024-05-29,27.84,C140,Tanzania,194.88
+INV1381,P913,Open-source 6thgeneration access,3,2024-06-01,52.5,C197,Uganda,157.5
+INV1133,P1097,Organic 5thgeneration matrix,1,2024-06-02,59.7,C117,Nigeria,59.7
+INV1251,P762,Sharable 3rdgeneration data-warehouse,19,2024-06-05,77.61,C167,Tanzania,1474.59
+INV1084,P438,Ameliorated incremental budgetary management,21,2024-06-05,53.65,C141,Kenya,1126.6499999999999
+INV1153,P797,Open-source high-level application,49,2024-06-07,23.51,C196,Ethiopia,1151.99
+INV1232,P514,Synergized uniform architecture,11,2024-06-07,14.97,C200,Kenya,164.67000000000002
+INV1454,P275,Profound local product,42,2024-06-09,46.29,C191,Egypt,1944.18
+INV1295,P726,Organized bi-directional hub,33,2024-06-12,36.03,C130,South Africa,1188.99
+INV1201,P469,Face-to-face holistic hierarchy,32,2024-06-13,48.63,C116,South Africa,1556.16
+INV1950,P792,Team-oriented holistic encoding,23,2024-06-13,23.85,C112,Uganda,548.5500000000001
+INV1082,P281,Upgradable bottom-line moratorium,23,2024-06-14,36.18,C148,Kenya,832.14
+INV1371,P368,Reduced fault-tolerant orchestration,33,2024-06-16,48.63,C181,Ethiopia,1604.7900000000002
+INV1991,P701,Streamlined static forecast,42,2024-06-16,38.71,C109,Tanzania,1625.82
+INV1930,P885,Automated incremental task-force,1,2024-06-19,82.05,C196,Uganda,82.05
+INV1200,P936,Face-to-face homogeneous service-desk,15,2024-06-19,53.91,C124,Tanzania,808.65
+INV1223,P813,Quality-focused even-keeled strategy,1,2024-06-20,88.86,C128,Tanzania,88.86
+INV1681,P378,Open-architected scalable frame,19,2024-06-22,42.17,C156,Nigeria,801.23
+INV1558,P358,Progressive grid-enabled portal,26,2024-06-22,96.36,C119,Ethiopia,2505.36
+INV1654,P641,Organized uniform extranet,50,2024-06-23,17.24,C150,Nigeria,861.9999999999999
+INV1103,P823,Automated incremental projection,44,2024-06-24,71.69,C163,Kenya,3154.3599999999997
+INV1357,P1056,Front-line exuding contingency,28,2024-06-26,12.93,C174,Kenya,362.03999999999996
+INV1593,P512,Extended fault-tolerant migration,23,2024-06-26,56.28,C167,Morocco,1294.44
+INV1028,P918,Programmable 3rdgeneration hardware,25,2024-06-27,71.38,C195,Nigeria,1784.5
+INV1604,P485,Optional maximized focus group,13,2024-06-30,40.16,C175,Egypt,522.0799999999999
+INV1932,P777,Self-enabling context-sensitive hardware,49,2024-07-02,34.39,C161,Ghana,1685.1100000000001
+INV1424,P240,Focused global parallelism,2,2024-07-02,98.93,C104,South Africa,197.86
+INV1158,P721,Multi-layered clear-thinking service-desk,23,2024-07-03,78.99,C176,Nigeria,1816.77
+INV1145,P452,Digitized composite data-warehouse,9,2024-07-03,91.16,C104,Rwanda,820.4399999999999
+INV1146,P962,Exclusive grid-enabled system engine,15,2024-07-04,13.16,C144,Ghana,197.4
+INV1846,P971,Robust object-oriented strategy,34,2024-07-07,40.04,C109,Uganda,1361.36
+INV1920,P231,Ameliorated multi-state alliance,26,2024-07-08,6.79,C136,Ethiopia,176.54
+INV1339,P659,Self-enabling intermediate complexity,8,2024-07-08,95.86,C150,Ghana,766.88
+INV1643,P201,Customer-focused executive protocol,9,2024-07-09,94.79,C173,Nigeria,853.11
+INV1562,P1019,Total motivating artificial intelligence,41,2024-07-10,85.88,C101,Nigeria,3521.08
+INV1892,P588,Profit-focused stable website,32,2024-07-11,79.58,C134,South Africa,2546.56
+INV1570,P1001,Quality-focused systematic success,25,2024-07-11,20.84,C122,Ghana,521.0
+INV1329,P612,Self-enabling full-range system engine,33,2024-07-13,96.8,C200,South Africa,3194.4
+INV1115,P770,Centralized zero administration functionalities,41,2024-07-13,77.42,C160,Rwanda,3174.2200000000003
+INV1787,P961,Function-based foreground pricing structure,41,2024-07-13,2.73,C188,Ethiopia,111.92999999999999
+INV1818,P910,Team-oriented heuristic encoding,32,2024-07-14,38.19,C171,Kenya,1222.08
+INV1856,P817,Reduced bottom-line budgetary management,33,2024-07-16,65.81,C199,Nigeria,2171.73
+INV1546,P415,Enterprise-wide composite Local Area Network,13,2024-07-17,47.39,C177,Uganda,616.07
+INV1467,P1053,Persistent maximized function,1,2024-07-17,69.88,C118,South Africa,69.88
+INV1987,P212,Centralized non-volatile portal,40,2024-07-19,7.25,C137,South Africa,290.0
+INV1925,P836,Configurable radical utilization,43,2024-07-20,44.83,C108,Morocco,1927.6899999999998
+INV1308,P1003,Decentralized context-sensitive knowledge user,25,2024-07-20,95.45,C147,South Africa,2386.25
+INV1268,P865,Organic bifurcated system engine,50,2024-07-20,64.86,C197,Rwanda,3243.0
+INV1067,P500,Upgradable value-added project,42,2024-07-20,82.69,C154,South Africa,3472.98
+INV1842,P688,Sharable mission-critical help-desk,2,2024-07-21,15.75,C162,Kenya,31.5
+INV1985,P863,Switchable 3rdgeneration monitoring,47,2024-07-23,51.18,C103,Nigeria,2405.46
+INV1465,P361,Quality-focused encompassing firmware,12,2024-07-23,26.01,C124,Tanzania,312.12
+INV1705,P1012,Multi-tiered 4thgeneration application,45,2024-07-29,60.58,C134,South Africa,2726.1
+INV1029,P758,Future-proofed solution-oriented Local Area Network,49,2024-07-30,20.75,C109,Egypt,1016.75
+INV1637,P790,Mandatory methodical task-force,29,2024-07-30,89.73,C117,Uganda,2602.17
+INV1314,P299,Persistent responsive solution,35,2024-07-31,84.31,C168,Nigeria,2950.85
+INV1909,P967,Programmable 24/7 Internet solution,41,2024-07-31,24.29,C155,South Africa,995.89
+INV1635,P318,Adaptive bottom-line groupware,35,2024-07-31,95.2,C134,Egypt,3332.0
+INV1575,P952,Stand-alone well-modulated system engine,9,2024-08-02,54.78,C178,Uganda,493.02
+INV1741,P913,Grass-roots zero administration extranet,8,2024-08-02,36.32,C195,Ghana,290.56
+INV1237,P780,Distributed logistical initiative,34,2024-08-03,73.85,C156,Ghana,2510.8999999999996
+INV1634,P723,Streamlined tangible capability,5,2024-08-04,67.37,C132,Kenya,336.85
+INV1388,P358,Down-sized logistical hub,22,2024-08-04,19.36,C168,Tanzania,425.91999999999996
+INV1731,P825,Ameliorated zero administration archive,16,2024-08-04,45.43,C183,Uganda,726.88
+INV1112,P476,Compatible reciprocal emulation,5,2024-08-05,54.45,C108,Rwanda,272.25
+INV1948,P518,Mandatory bi-directional budgetary management,3,2024-08-07,59.69,C165,Tanzania,179.07
+INV1285,P272,Integrated tertiary parallelism,32,2024-08-08,27.38,C175,Tanzania,876.16
+INV1855,P1019,Total zero administration toolset,38,2024-08-08,95.51,C164,Nigeria,3629.38
+INV1952,P519,Configurable bifurcated service-desk,43,2024-08-08,19.84,C150,Nigeria,853.12
+INV1727,P225,Reduced fresh-thinking knowledgebase,11,2024-08-09,24.23,C138,Kenya,266.53000000000003
+INV1936,P462,Optimized bifurcated array,22,2024-08-09,64.88,C178,Uganda,1427.36
+INV1516,P852,Profit-focused zero-defect core,1,2024-08-10,2.82,C167,Uganda,2.82
+INV1245,P745,Balanced human-resource open system,6,2024-08-10,34.25,C178,South Africa,205.5
+INV1612,P609,Visionary 5thgeneration paradigm,9,2024-08-12,75.17,C187,Morocco,676.53
+INV1227,P314,Reverse-engineered holistic model,26,2024-08-13,98.88,C151,South Africa,2570.88
+INV1794,P1060,De-engineered real-time installation,17,2024-08-14,91.95,C128,South Africa,1563.15
+INV1379,P492,Grass-roots system-worthy info-mediaries,42,2024-08-17,66.5,C173,Kenya,2793.0
+INV1490,P478,Innovative empowering workforce,5,2024-08-19,93.08,C108,Ethiopia,465.4
+INV1414,P269,Inverse tangible circuit,1,2024-08-21,39.77,C175,Tanzania,39.77
+INV1596,P1092,Extended explicit synergy,41,2024-08-21,65.5,C160,Nigeria,2685.5
+INV1491,P488,Reverse-engineered secondary knowledge user,47,2024-08-23,11.48,C109,Kenya,539.5600000000001
+INV1674,P330,Team-oriented bi-directional project,31,2024-08-23,40.92,C184,Nigeria,1268.52
+INV1161,P973,Integrated intermediate interface,15,2024-08-23,42.04,C192,Morocco,630.6
+INV1689,P511,Intuitive dynamic strategy,28,2024-08-23,59.22,C116,Egypt,1658.1599999999999
+INV1999,P356,Reduced bifurcated array,37,2024-08-24,17.01,C198,Ethiopia,629.37
+INV1123,P434,Pre-emptive bottom-line matrices,48,2024-08-24,34.91,C179,Ghana,1675.6799999999998
+INV1714,P848,User-friendly client-server approach,19,2024-08-26,59.7,C166,Ghana,1134.3
+INV1923,P1059,Cloned 24hour project,47,2024-08-26,60.11,C199,Morocco,2825.17
+INV1054,P1067,Networked background application,7,2024-08-26,74.85,C177,Nigeria,523.9499999999999
+INV1322,P946,Phased multi-tasking moratorium,21,2024-08-28,41.87,C185,Uganda,879.27
+INV1629,P946,Advanced systematic core,45,2024-08-28,97.77,C185,Ethiopia,4399.65
+INV1387,P698,Reverse-engineered holistic superstructure,47,2024-08-29,1.02,C146,Ghana,47.94
+INV1622,P794,Enterprise-wide maximized firmware,12,2024-08-29,8.17,C103,Nigeria,98.03999999999999
+INV1822,P265,Implemented well-modulated productivity,8,2024-08-31,63.39,C126,Uganda,507.12
+INV1101,P863,Open-source local Graphic Interface,24,2024-08-31,15.17,C200,Tanzania,364.08
+INV1975,P779,Profound multi-tasking middleware,10,2024-09-01,2.98,C186,Tanzania,29.8
+INV1583,P591,Virtual 5thgeneration model,49,2024-09-03,79.88,C167,Nigeria,3914.12
+INV1869,P614,Horizontal motivating definition,20,2024-09-06,72.05,C118,South Africa,1441.0
+INV1069,P843,Down-sized web-enabled Graphic Interface,29,2024-09-06,24.33,C198,South Africa,705.5699999999999
+INV1068,P1049,Reduced full-range matrices,4,2024-09-07,19.45,C128,Kenya,77.8
+INV1651,P886,Expanded dedicated policy,40,2024-09-08,78.6,C166,South Africa,3144.0
+INV1734,P274,Reduced value-added toolset,12,2024-09-08,45.49,C153,Nigeria,545.88
+INV1442,P887,Reverse-engineered tertiary time-frame,39,2024-09-09,52.98,C103,Uganda,2066.22
+INV1083,P1075,Synchronized systematic collaboration,40,2024-09-13,39.76,C183,Ghana,1590.3999999999999
+INV1831,P1052,Open-source disintermediate methodology,5,2024-09-13,59.12,C142,South Africa,295.59999999999997
+INV1071,P1082,Reactive object-oriented portal,26,2024-09-14,90.88,C170,Nigeria,2362.88
+INV1183,P938,Networked reciprocal moratorium,39,2024-09-15,86.2,C199,Nigeria,3361.8
+INV1031,P425,Cloned upward-trending service-desk,42,2024-09-16,53.45,C149,Uganda,2244.9
+INV1182,P896,Reverse-engineered impactful hub,25,2024-09-18,56.17,C152,South Africa,1404.25
+INV1738,P789,Front-line fresh-thinking budgetary management,28,2024-09-18,36.57,C137,Ghana,1023.96
+INV1659,P521,Open-architected dedicated workforce,37,2024-09-20,48.45,C157,Nigeria,1792.65
+INV1823,P624,Innovative multi-tasking implementation,39,2024-09-20,61.37,C184,Ghana,2393.43
+INV1537,P640,Team-oriented user-facing infrastructure,12,2024-09-20,59.85,C161,Kenya,718.2
+INV1709,P874,Re-contextualized mobile core,21,2024-09-20,41.89,C107,South Africa,879.69
+INV1147,P774,Customer-focused static secured line,15,2024-09-22,24.35,C133,Ethiopia,365.25
+INV1043,P548,Monitored impactful success,18,2024-09-22,20.97,C154,Kenya,377.46
+INV1539,P242,Team-oriented homogeneous implementation,1,2024-09-23,7.5,C158,South Africa,7.5
+INV1538,P330,User-friendly dynamic Internet solution,3,2024-09-26,38.98,C136,Morocco,116.94
+INV1954,P893,Synchronized intangible Graphic Interface,45,2024-09-27,38.47,C157,South Africa,1731.1499999999999
+INV1318,P633,Optimized multimedia functionalities,33,2024-09-29,62.71,C159,South Africa,2069.43
+INV1998,P924,Multi-channeled bandwidth-monitored utilization,6,2024-09-30,87.46,C108,Tanzania,524.76
+INV1868,P1017,Universal reciprocal project,17,2024-10-02,9.87,C182,South Africa,167.79
+INV1972,P1024,Compatible intermediate knowledgebase,20,2024-10-04,38.87,C107,Nigeria,777.4
+INV1228,P571,Intuitive secondary encryption,32,2024-10-04,60.72,C183,Uganda,1943.04
+INV1038,P977,Self-enabling context-sensitive functionalities,37,2024-10-05,59.79,C123,Nigeria,2212.23
+INV1135,P522,Polarized didactic secured line,37,2024-10-05,91.96,C175,Tanzania,3402.52
+INV1487,P960,Re-contextualized background forecast,29,2024-10-07,16.88,C169,South Africa,489.52
+INV1560,P1085,Balanced attitude-oriented function,26,2024-10-07,73.4,C131,Nigeria,1908.4
+INV1162,P248,Enhanced logistical moratorium,43,2024-10-11,86.49,C119,Nigeria,3719.0699999999997
+INV1752,P988,Polarized client-driven database,20,2024-10-13,23.88,C134,Nigeria,477.59999999999997
+INV1341,P632,Focused tertiary middleware,27,2024-10-13,64.26,C129,Nigeria,1735.0200000000002
+INV1383,P1002,Implemented next generation hub,46,2024-10-14,87.79,C137,Uganda,4038.34
+INV1100,P899,Mandatory scalable Internet solution,9,2024-10-15,78.08,C187,Morocco,702.72
+INV1876,P746,Triple-buffered 6thgeneration process improvement,43,2024-10-15,80.18,C178,Nigeria,3447.7400000000002
+INV1699,P652,Multi-lateral web-enabled paradigm,33,2024-10-16,39.0,C144,South Africa,1287.0
+INV1758,P1023,Expanded needs-based info-mediaries,46,2024-10-16,11.23,C178,Kenya,516.58
+INV1740,P935,Extended intermediate functionalities,26,2024-10-16,60.95,C122,Tanzania,1584.7
+INV1144,P342,Extended maximized projection,27,2024-10-17,84.2,C109,Uganda,2273.4
+INV1024,P774,Visionary fault-tolerant analyzer,33,2024-10-18,48.19,C189,Nigeria,1590.27
+INV1891,P466,Re-engineered bi-directional frame,3,2024-10-19,59.76,C187,Kenya,179.28
+INV1555,P616,Proactive mobile software,26,2024-10-20,23.78,C193,Nigeria,618.28
+INV1167,P363,Reduced systematic synergy,7,2024-10-20,59.12,C135,Nigeria,413.84
+INV1488,P766,Object-based eco-centric neural-net,14,2024-10-22,34.07,C150,Egypt,476.98
+INV1064,P587,Cloned national toolset,4,2024-10-22,82.97,C123,Nigeria,331.88
+INV1500,P470,Balanced transitional encoding,48,2024-10-23,23.63,C146,Morocco,1134.24
+INV1089,P664,Diverse bandwidth-monitored architecture,24,2024-10-23,33.95,C157,Egypt,814.8000000000001
+INV1541,P573,Reverse-engineered bifurcated strategy,40,2024-10-24,37.81,C166,Nigeria,1512.4
+INV1701,P891,Self-enabling scalable utilization,6,2024-10-26,83.76,C116,South Africa,502.56000000000006
+INV1032,P659,Organic clear-thinking data-warehouse,28,2024-10-27,71.02,C176,Tanzania,1988.56
+INV1165,P356,Managed eco-centric leverage,13,2024-10-27,48.6,C150,Egypt,631.8000000000001
+INV1795,P852,Managed systematic solution,5,2024-10-28,60.46,C191,Nigeria,302.3
+INV1829,P263,Quality-focused hybrid archive,1,2024-10-31,45.0,C131,Ethiopia,45.0
+INV1273,P323,Synergized bottom-line hub,35,2024-11-02,68.64,C186,Egypt,2402.4
+INV1601,P397,Profound leadingedge infrastructure,48,2024-11-03,15.81,C126,Nigeria,758.88
+INV1349,P1027,Persistent upward-trending implementation,5,2024-11-04,6.11,C166,Ethiopia,30.55
+INV1188,P473,Upgradable encompassing alliance,41,2024-11-04,40.33,C137,Tanzania,1653.53
+INV1078,P877,Multi-lateral 24/7 secured line,48,2024-11-05,62.79,C145,South Africa,3013.92
+INV1888,P672,Inverse exuding analyzer,40,2024-11-07,1.26,C120,Tanzania,50.4
+INV1848,P1073,Team-oriented motivating circuit,50,2024-11-07,74.94,C107,Ghana,3747.0
+INV1867,P895,Versatile multi-tasking matrices,10,2024-11-08,58.51,C155,Ethiopia,585.1
+INV1391,P422,Multi-lateral global artificial intelligence,27,2024-11-09,7.93,C183,Nigeria,214.10999999999999
+INV1687,P1053,Open-architected client-driven groupware,28,2024-11-09,54.79,C133,Nigeria,1534.12
+INV1713,P879,Public-key zero-defect knowledge user,35,2024-11-12,41.1,C173,Nigeria,1438.5
+INV1186,P749,Multi-layered client-driven definition,27,2024-11-13,30.66,C142,Kenya,827.82
+INV1914,P865,Distributed local interface,49,2024-11-14,31.91,C161,South Africa,1563.59
+INV1917,P867,Digitized encompassing moderator,45,2024-11-15,64.16,C136,Uganda,2887.2
+INV1757,P380,Advanced bandwidth-monitored matrix,13,2024-11-17,9.77,C184,Egypt,127.00999999999999
+INV1289,P434,Diverse radical knowledgebase,19,2024-11-20,49.93,C188,Ethiopia,948.67
+INV1246,P984,Progressive dynamic emulation,16,2024-11-21,82.69,C105,Uganda,1323.04
+INV1025,P403,Reactive 24hour Local Area Network,12,2024-11-24,84.02,C171,South Africa,1008.24
+INV1953,P789,Future-proofed client-driven neural-net,47,2024-11-24,6.18,C139,Ghana,290.46
+INV1456,P418,Customizable bi-directional structure,19,2024-11-24,28.02,C186,Egypt,532.38
+INV1166,P842,Operative asymmetric concept,32,2024-11-28,91.93,C110,Nigeria,2941.76
+INV1524,P774,Optional multi-tasking alliance,49,2024-11-30,77.31,C174,Ethiopia,3788.19
+INV1116,P424,Open-architected responsive website,28,2024-11-30,2.21,C130,Kenya,61.879999999999995
+INV1968,P508,Versatile incremental synergy,44,2024-11-30,1.12,C169,Kenya,49.28
+INV1486,P309,Decentralized solution-oriented methodology,22,2024-12-03,16.58,C141,Uganda,364.76
+INV1437,P521,Cross-platform systematic encryption,33,2024-12-03,80.28,C185,Uganda,2649.2400000000002
+INV1797,P984,Multi-tiered discrete orchestration,5,2024-12-04,82.86,C144,Ghana,414.3
+INV1933,P423,Vision-oriented value-added time-frame,35,2024-12-04,90.65,C179,South Africa,3172.75
+INV1044,P484,Extended global knowledge user,4,2024-12-04,68.77,C143,Uganda,275.08
+INV1720,P440,Integrated 6thgeneration orchestration,14,2024-12-06,40.51,C135,Kenya,567.14
+INV1074,P396,Configurable empowering contingency,10,2024-12-08,68.62,C150,Uganda,686.2
+INV1767,P667,Open-architected high-level product,30,2024-12-10,58.43,C175,Ethiopia,1752.9
+INV1343,P485,Multi-lateral modular pricing structure,21,2024-12-11,72.69,C161,Ghana,1526.49
+INV1706,P1015,Persistent logistical array,47,2024-12-11,63.62,C160,Tanzania,2990.14
+INV1002,P225,Focused radical product,15,2024-12-11,23.31,C197,Tanzania,349.65
+INV1441,P334,Customer-focused methodical moderator,5,2024-12-14,60.13,C160,Egypt,300.65000000000003
+INV1913,P429,Automated multi-tasking emulation,34,2024-12-14,18.67,C131,South Africa,634.7800000000001
+INV1841,P589,Integrated multimedia system engine,14,2024-12-14,11.78,C143,Nigeria,164.92
+INV1626,P810,Ergonomic attitude-oriented emulation,23,2024-12-15,82.63,C184,Ethiopia,1900.4899999999998
+INV1170,P632,Horizontal background capacity,2,2024-12-16,25.57,C186,Tanzania,51.14
+INV1373,P202,Inverse asynchronous methodology,32,2024-12-18,53.5,C134,Uganda,1712.0
+INV1997,P670,Multi-tiered context-sensitive product,45,2024-12-18,94.3,C183,Nigeria,4243.5
+INV1401,P798,Object-based cohesive functionalities,39,2024-12-18,34.3,C183,Tanzania,1337.6999999999998
+INV1632,P646,Implemented fresh-thinking throughput,14,2024-12-18,82.32,C153,Rwanda,1152.48
+INV1195,P361,Networked holistic definition,37,2024-12-19,83.82,C144,South Africa,3101.3399999999997
+INV1141,P669,Synchronized tertiary synergy,26,2024-12-19,7.82,C195,South Africa,203.32
+INV1726,P350,Self-enabling maximized groupware,23,2024-12-19,24.47,C131,Ethiopia,562.81
+INV1631,P521,Virtual value-added frame,39,2024-12-21,69.63,C159,South Africa,2715.5699999999997
+INV1686,P761,Inverse user-facing array,50,2024-12-22,50.98,C166,Nigeria,2549.0
+INV1675,P396,Reactive empowering alliance,19,2024-12-22,22.84,C108,South Africa,433.96
+INV1826,P755,User-friendly homogeneous extranet,3,2024-12-22,55.3,C153,South Africa,165.89999999999998
+INV1440,P605,Ameliorated didactic pricing structure,44,2024-12-22,52.31,C165,Rwanda,2301.6400000000003
+INV1704,P684,Cross-group optimal access,32,2024-12-25,41.13,C141,Egypt,1316.16
+INV1193,P500,Public-key regional info-mediaries,27,2024-12-25,62.87,C155,South Africa,1697.49
+INV1756,P424,Programmable bandwidth-monitored moderator,29,2024-12-26,18.82,C117,Tanzania,545.78
+INV1450,P669,Right-sized dedicated leverage,40,2024-12-29,75.04,C122,Morocco,3001.6000000000004
+INV1363,P370,Optimized hybrid middleware,41,2024-12-29,74.76,C154,Nigeria,3065.1600000000003
+INV1136,P417,Implemented human-resource challenge,47,2024-12-30,79.22,C157,South Africa,3723.34
+INV1226,P219,Multi-layered neutral monitoring,44,2024-12-30,80.73,C194,Ghana,3552.1200000000003
+INV1567,P383,Open-source high-level access,11,2024-12-31,32.75,C164,Kenya,360.25
+INV1945,P996,Multi-layered object-oriented ability,26,2025-01-01,7.92,C158,Nigeria,205.92
+INV1271,P729,Reduced composite capability,30,2025-01-01,90.16,C165,Ghana,2704.7999999999997
+INV1664,P507,Object-based context-sensitive synergy,45,2025-01-04,87.31,C116,Kenya,3928.9500000000003
+INV1280,P767,Monitored eco-centric emulation,1,2025-01-07,50.25,C104,South Africa,50.25
+INV1773,P772,Front-line actuating matrix,18,2025-01-07,14.14,C184,Kenya,254.52
+INV1070,P833,Horizontal background leverage,18,2025-01-08,63.74,C156,South Africa,1147.32
+INV1204,P382,Future-proofed contextually-based utilization,41,2025-01-08,11.2,C110,Ethiopia,459.2
+INV1843,P206,Fundamental human-resource instruction set,11,2025-01-09,53.14,C125,Nigeria,584.54
+INV1036,P1090,Persistent grid-enabled workforce,44,2025-01-09,93.27,C180,Ethiopia,4103.88
+INV1247,P328,Synergistic grid-enabled strategy,29,2025-01-10,36.94,C175,Egypt,1071.26
+INV1519,P959,Integrated global definition,4,2025-01-11,39.82,C193,Ethiopia,159.28
+INV1353,P300,Business-focused leadingedge Local Area Network,35,2025-01-14,99.94,C165,Nigeria,3497.9
+INV1979,P745,Profound value-added paradigm,18,2025-01-14,67.48,C180,Egypt,1214.64
+INV1759,P912,Persistent national groupware,35,2025-01-16,58.88,C181,Nigeria,2060.8
+INV1724,P1025,Up-sized solution-oriented database,3,2025-01-16,60.27,C160,Tanzania,180.81
+INV1845,P505,Innovative tertiary encoding,38,2025-01-17,48.19,C167,Tanzania,1831.2199999999998
+INV1055,P552,Persevering zero administration capability,44,2025-01-17,41.44,C119,Kenya,1823.36
+INV1172,P265,Customizable content-based frame,45,2025-01-17,17.39,C170,Ethiopia,782.5500000000001
+INV1009,P304,Down-sized holistic artificial intelligence,11,2025-01-18,84.39,C127,Kenya,928.29
+INV1696,P870,Exclusive contextually-based encryption,28,2025-01-19,99.22,C118,Morocco,2778.16
+INV1816,P436,Digitized background software,49,2025-01-19,32.4,C170,Nigeria,1587.6
+INV1213,P823,Open-architected content-based open system,49,2025-01-20,84.14,C128,South Africa,4122.86
+INV1778,P827,Balanced web-enabled functionalities,21,2025-01-20,19.65,C129,South Africa,412.65
+INV1327,P300,Horizontal discrete core,3,2025-01-20,8.7,C158,Uganda,26.099999999999998
+INV1719,P969,Advanced background data-warehouse,49,2025-01-21,31.9,C115,Egypt,1563.1
+INV1403,P714,Adaptive web-enabled leverage,42,2025-01-23,73.49,C131,Ethiopia,3086.58
+INV1608,P485,Enhanced zero-defect throughput,12,2025-01-24,75.95,C151,Kenya,911.4000000000001
+INV1625,P311,Profound zero-defect challenge,36,2025-01-25,9.17,C162,South Africa,330.12
+INV1352,P763,Reverse-engineered explicit workforce,4,2025-01-25,59.24,C191,Kenya,236.96
+INV1317,P562,Robust human-resource Local Area Network,36,2025-01-27,16.31,C135,Uganda,587.16
+INV1250,P686,Devolved explicit forecast,36,2025-01-28,35.17,C139,Ghana,1266.1200000000001
+INV1189,P987,Up-sized encompassing adapter,3,2025-01-28,43.25,C176,Uganda,129.75
+INV1272,P662,Function-based mobile migration,42,2025-01-28,69.43,C186,Kenya,2916.0600000000004
+INV1187,P968,Adaptive encompassing open system,13,2025-01-29,31.68,C119,Ethiopia,411.84
+INV1746,P351,Focused interactive artificial intelligence,41,2025-02-02,86.56,C185,Uganda,3548.96
+INV1377,P1003,User-centric global model,18,2025-02-04,80.59,C197,Morocco,1450.6200000000001
+INV1086,P303,User-centric needs-based structure,45,2025-02-04,23.67,C163,Nigeria,1065.15
+INV1466,P648,Phased secondary support,1,2025-02-05,1.5,C133,Nigeria,1.5
+INV1039,P1025,Expanded interactive definition,7,2025-02-05,37.55,C170,Uganda,262.84999999999997
+INV1209,P505,Triple-buffered directional utilization,2,2025-02-06,89.85,C184,Rwanda,179.7
+INV1052,P299,Diverse non-volatile Graphical User Interface,28,2025-02-09,11.56,C112,South Africa,323.68
+INV1912,P558,Quality-focused upward-trending synergy,46,2025-02-09,54.0,C167,Tanzania,2484.0
+INV1021,P717,Function-based 24/7 monitoring,38,2025-02-10,82.27,C122,South Africa,3126.2599999999998
+INV1922,P404,Total reciprocal implementation,22,2025-02-13,28.18,C128,Rwanda,619.96
+INV1957,P932,Grass-roots value-added moderator,35,2025-02-14,45.19,C145,South Africa,1581.6499999999999
+INV1796,P483,Pre-emptive next generation forecast,31,2025-02-15,94.15,C115,Nigeria,2918.65
+INV1348,P653,Down-sized responsive installation,33,2025-02-16,69.62,C173,Ghana,2297.46
+INV1330,P945,Secured bifurcated neural-net,48,2025-02-17,1.52,C130,Tanzania,72.96000000000001
+INV1118,P532,Triple-buffered optimal implementation,9,2025-02-20,56.99,C171,South Africa,512.91
+INV1163,P1081,Focused tertiary application,29,2025-02-20,92.37,C159,Tanzania,2678.73
+INV1610,P856,Integrated content-based emulation,19,2025-02-21,90.87,C181,Nigeria,1726.5300000000002
+INV1138,P711,User-friendly client-driven policy,3,2025-02-24,65.49,C113,Ethiopia,196.46999999999997
+INV1595,P1014,Configurable fresh-thinking forecast,35,2025-02-24,16.92,C140,Kenya,592.2
+INV1426,P283,Fundamental optimal knowledge user,23,2025-02-27,7.43,C145,Uganda,170.89
+INV1120,P986,Multi-layered intermediate hierarchy,12,2025-02-27,60.3,C146,Tanzania,723.5999999999999
+INV1413,P809,Object-based mission-critical time-frame,20,2025-02-27,11.84,C168,Nigeria,236.8
+INV1730,P686,Open-architected 3rdgeneration protocol,32,2025-02-28,33.76,C168,South Africa,1080.32
+INV1216,P582,Multi-tiered directional utilization,2,2025-02-28,55.62,C125,South Africa,111.24
+INV1242,P1035,Intuitive static moderator,16,2025-03-02,70.69,C170,Kenya,1131.04
+INV1324,P889,Re-contextualized 24/7 implementation,20,2025-03-02,60.23,C139,Ghana,1204.6
+INV1678,P588,Organic secondary initiative,27,2025-03-03,84.2,C162,Kenya,2273.4
+INV1019,P423,Ergonomic zero tolerance complexity,44,2025-03-03,49.58,C186,Morocco,2181.52
+INV1303,P940,Robust interactive software,20,2025-03-03,91.64,C188,Nigeria,1832.8
+INV1325,P869,Profound 3rdgeneration challenge,8,2025-03-05,46.51,C149,Kenya,372.08
+INV1073,P791,Universal explicit website,34,2025-03-08,59.24,C187,Kenya,2014.16
+INV1588,P427,Synergized attitude-oriented installation,32,2025-03-08,46.75,C112,Morocco,1496.0
+INV1412,P270,Synchronized executive support,45,2025-03-09,5.46,C146,Tanzania,245.7
+INV1479,P506,Expanded client-server knowledgebase,22,2025-03-10,66.55,C179,Nigeria,1464.1
+INV1210,P1061,Proactive upward-trending extranet,3,2025-03-10,53.13,C150,Ethiopia,159.39000000000001
+INV1566,P225,Upgradable tertiary software,45,2025-03-11,31.88,C115,South Africa,1434.6
+INV1571,P621,Profound encompassing instruction set,21,2025-03-11,86.94,C142,Rwanda,1825.74
+INV1202,P712,Total fault-tolerant hardware,32,2025-03-12,50.2,C156,South Africa,1606.4
+INV1091,P1054,Networked transitional artificial intelligence,25,2025-03-13,69.68,C200,Kenya,1742.0000000000002
+INV1315,P874,Cross-platform analyzing complexity,16,2025-03-14,84.79,C116,Egypt,1356.64
+INV1883,P285,Customer-focused tangible ability,31,2025-03-14,9.62,C152,Tanzania,298.21999999999997
+INV1771,P883,Function-based explicit approach,33,2025-03-16,53.69,C181,Nigeria,1771.77
+INV1710,P286,Versatile explicit contingency,11,2025-03-16,7.84,C110,Kenya,86.24
+INV1996,P1048,Re-contextualized fresh-thinking data-warehouse,34,2025-03-16,28.69,C177,Uganda,975.46
+INV1792,P969,Profound uniform Local Area Network,6,2025-03-18,12.2,C129,Nigeria,73.19999999999999
+INV1131,P416,Configurable directional groupware,27,2025-03-19,26.35,C183,South Africa,711.45
+INV1606,P271,Implemented directional conglomeration,49,2025-03-21,72.47,C139,Tanzania,3551.0299999999997
+INV1698,P676,Cross-platform 3rdgeneration Internet solution,25,2025-03-21,36.56,C144,Nigeria,914.0
+INV1060,P947,Right-sized transitional framework,17,2025-03-21,92.72,C153,Tanzania,1576.24
+INV1093,P366,Right-sized disintermediate groupware,41,2025-03-23,87.98,C177,Kenya,3607.1800000000003
+INV1473,P869,Customizable well-modulated analyzer,40,2025-03-23,99.16,C178,Tanzania,3966.3999999999996
+INV1563,P1030,Diverse even-keeled flexibility,7,2025-03-24,96.49,C187,Nigeria,675.43
+INV1331,P547,Ergonomic asymmetric structure,12,2025-03-26,11.21,C198,Morocco,134.52
+INV1557,P967,De-engineered high-level policy,29,2025-03-27,86.94,C127,Uganda,2521.2599999999998
+INV1614,P1063,Adaptive object-oriented focus group,28,2025-03-27,11.18,C102,Morocco,313.03999999999996
+INV1802,P444,Assimilated neutral matrix,37,2025-03-29,60.89,C103,Uganda,2252.93
+INV1951,P226,Seamless 3rdgeneration groupware,46,2025-03-30,46.23,C174,Kenya,2126.58
+INV1399,P258,Function-based impactful moratorium,43,2025-03-31,40.43,C123,South Africa,1738.49
+INV1561,P366,Quality-focused motivating ability,34,2025-04-01,91.04,C134,Nigeria,3095.36
+INV1667,P882,Ergonomic attitude-oriented middleware,17,2025-04-01,17.01,C131,Nigeria,289.17
+INV1269,P582,Monitored multimedia analyzer,23,2025-04-02,42.75,C134,South Africa,983.25
+INV1294,P272,Triple-buffered empowering definition,24,2025-04-03,42.78,C180,Nigeria,1026.72
+INV1472,P1026,Vision-oriented grid-enabled monitoring,25,2025-04-03,89.55,C148,Ethiopia,2238.75
+INV1624,P239,Quality-focused multi-tasking Local Area Network,21,2025-04-05,88.37,C181,Morocco,1855.77
+INV1010,P892,Customer-focused discrete Graphic Interface,11,2025-04-05,6.11,C186,Egypt,67.21000000000001
+INV1661,P1068,Streamlined bandwidth-monitored concept,19,2025-04-05,33.57,C163,Nigeria,637.83
+INV1220,P997,Reactive full-range task-force,37,2025-04-06,59.91,C151,South Africa,2216.67
+INV1981,P877,Vision-oriented logistical intranet,36,2025-04-06,26.45,C113,Uganda,952.1999999999999
+INV1436,P933,Networked bifurcated task-force,37,2025-04-06,82.79,C113,Egypt,3063.23
+INV1156,P424,Optional upward-trending utilization,30,2025-04-07,74.68,C127,Tanzania,2240.4
+INV1962,P1050,Innovative homogeneous firmware,10,2025-04-07,63.86,C113,Kenya,638.6
+INV1919,P972,Multi-channeled bandwidth-monitored info-mediaries,9,2025-04-07,63.57,C188,Egypt,572.13
+INV1508,P633,Implemented background migration,10,2025-04-08,33.32,C122,Egypt,333.2
+INV1502,P700,Sharable impactful ability,39,2025-04-08,1.11,C110,Kenya,43.290000000000006
+INV1591,P671,Quality-focused composite encryption,49,2025-04-08,61.12,C168,Nigeria,2994.8799999999997
+INV1737,P844,Stand-alone clear-thinking pricing structure,8,2025-04-08,26.0,C137,Kenya,208.0
+INV1640,P245,Customizable uniform leverage,18,2025-04-09,61.68,C151,Uganda,1110.24
+INV1587,P681,Devolved fault-tolerant migration,23,2025-04-10,19.36,C176,Ghana,445.28
+INV1494,P934,Front-line next generation framework,46,2025-04-12,88.28,C128,South Africa,4060.88
+INV1020,P438,Advanced holistic access,30,2025-04-12,72.57,C119,Morocco,2177.1
+INV1715,P834,Virtual fault-tolerant leverage,20,2025-04-14,58.36,C191,Ghana,1167.2
+INV1605,P1085,Sharable modular support,19,2025-04-15,97.5,C118,Ghana,1852.5
+INV1929,P684,Centralized foreground encryption,36,2025-04-18,34.77,C168,Ethiopia,1251.72
+INV1384,P769,Triple-buffered homogeneous infrastructure,24,2025-04-19,42.33,C180,South Africa,1015.92
+INV1459,P335,Mandatory system-worthy hub,28,2025-04-19,85.37,C126,South Africa,2390.36
+INV1755,P635,Versatile dynamic structure,48,2025-04-21,23.25,C138,Kenya,1116.0
+INV1518,P365,Persistent fresh-thinking attitude,45,2025-04-21,84.17,C116,South Africa,3787.65
+INV1203,P980,Organic human-resource groupware,24,2025-04-22,76.77,C156,Egypt,1842.48
+INV1971,P814,Stand-alone regional circuit,13,2025-04-22,48.01,C135,Kenya,624.13
+INV1483,P337,Mandatory optimizing circuit,26,2025-04-23,52.6,C197,Rwanda,1367.6000000000001
+INV1866,P884,Intuitive discrete contingency,17,2025-04-23,53.69,C105,Nigeria,912.73
+INV1283,P425,Profit-focused 3rdgeneration circuit,5,2025-04-25,14.86,C193,Ethiopia,74.3
+INV1439,P471,Customizable exuding algorithm,44,2025-04-26,22.42,C167,Kenya,986.48
+INV1790,P660,Ameliorated grid-enabled complexity,21,2025-04-28,86.6,C185,Uganda,1818.6
+INV1507,P849,Innovative coherent hierarchy,23,2025-04-29,9.33,C173,South Africa,214.59
+INV1478,P767,Enhanced human-resource task-force,5,2025-04-30,57.56,C105,Egypt,287.8
+INV1402,P688,Universal client-server portal,29,2025-05-01,52.73,C191,Nigeria,1529.1699999999998
+INV1164,P312,Realigned next generation methodology,36,2025-05-04,47.1,C164,Nigeria,1695.6000000000001
+INV1974,P1015,Face-to-face web-enabled standardization,4,2025-05-04,97.44,C190,South Africa,389.76
+INV1445,P668,Reduced multimedia policy,45,2025-05-05,49.63,C113,Kenya,2233.35
+INV1639,P460,Future-proofed bi-directional methodology,11,2025-05-06,62.04,C112,Nigeria,682.4399999999999
+INV1907,P681,Digitized bifurcated function,1,2025-05-07,42.97,C161,Nigeria,42.97
+INV1342,P387,Configurable logistical throughput,34,2025-05-09,76.14,C180,South Africa,2588.76
+INV1111,P588,Customer-focused national migration,33,2025-05-09,50.73,C118,South Africa,1674.09
+INV1617,P228,Down-sized human-resource archive,19,2025-05-09,48.75,C158,Nigeria,926.25
+INV1857,P425,Re-contextualized fresh-thinking encoding,24,2025-05-10,38.63,C126,Ethiopia,927.1200000000001
+INV1927,P444,Up-sized uniform definition,17,2025-05-10,72.73,C137,Tanzania,1236.41
+INV1880,P777,Cross-platform intangible workforce,47,2025-05-14,19.34,C120,Kenya,908.98
+INV1668,P618,Multi-layered static extranet,7,2025-05-14,3.07,C128,Egypt,21.49
+INV1618,P318,Operative encompassing protocol,47,2025-05-15,21.82,C158,Rwanda,1025.54
+INV1370,P260,Quality-focused optimal concept,35,2025-05-15,56.51,C149,Ethiopia,1977.85
+INV1304,P784,Implemented heuristic firmware,35,2025-05-15,72.43,C162,Uganda,2535.05
+INV1613,P895,Proactive fault-tolerant Internet solution,7,2025-05-16,15.45,C105,Kenya,108.14999999999999
+INV1680,P966,Exclusive static hardware,26,2025-05-16,96.12,C147,Kenya,2499.12
+INV1803,P481,Public-key zero-defect initiative,10,2025-05-16,32.49,C106,Kenya,324.90000000000003
+INV1173,P594,Focused holistic parallelism,6,2025-05-16,4.35,C129,Egypt,26.099999999999998
+INV1077,P246,Phased 24/7 flexibility,31,2025-05-17,90.07,C147,Nigeria,2792.1699999999996
+INV1506,P294,Reduced reciprocal application,37,2025-05-17,20.12,C177,Nigeria,744.44
+INV1076,P271,Visionary mission-critical projection,14,2025-05-18,71.66,C158,Morocco,1003.24
+INV1351,P1076,Phased demand-driven algorithm,19,2025-05-19,5.37,C163,Ghana,102.03
+INV1729,P450,Focused user-facing architecture,10,2025-05-21,44.76,C182,Uganda,447.59999999999997
+INV1396,P262,Enterprise-wide systemic extranet,40,2025-05-21,48.5,C189,Ethiopia,1940.0
+INV1432,P523,Ameliorated 4thgeneration help-desk,42,2025-05-22,5.65,C198,South Africa,237.3
+INV1944,P317,Mandatory value-added software,45,2025-05-24,67.29,C177,South Africa,3028.05
+INV1463,P578,Decentralized exuding firmware,23,2025-05-25,73.79,C102,Morocco,1697.17
+INV1989,P630,Quality-focused tertiary orchestration,44,2025-05-27,23.51,C156,South Africa,1034.44
+INV1446,P523,Focused scalable Graphic Interface,32,2025-05-27,99.64,C157,Nigeria,3188.48
+INV1266,P608,Proactive dynamic hub,28,2025-05-28,40.85,C116,Ghana,1143.8
+INV1254,P740,Customizable static monitoring,19,2025-05-29,22.73,C150,Nigeria,431.87
+INV1236,P1099,Realigned content-based standardization,5,2025-05-29,63.69,C135,Nigeria,318.45
+INV1000,P854,Switchable uniform installation,39,2025-05-30,93.44,C144,Uganda,3644.16
+INV1046,P420,Horizontal directional orchestration,14,2025-05-30,14.74,C134,Uganda,206.36
+INV1110,P673,Decentralized 24hour adapter,35,2025-05-31,60.79,C116,Ethiopia,2127.65
+INV1682,P830,Streamlined solution-oriented array,39,2025-05-31,84.78,C180,South Africa,3306.42
+INV1255,P1093,Balanced zero administration circuit,20,2025-06-02,97.48,C104,Morocco,1949.6000000000001
+INV1793,P453,Innovative local customer loyalty,28,2025-06-03,79.76,C177,Rwanda,2233.28
+INV1301,P752,Organic mobile attitude,38,2025-06-05,83.87,C117,South Africa,3187.0600000000004
+INV1934,P676,Front-line impactful benchmark,15,2025-06-06,77.49,C104,Kenya,1162.35
+INV1669,P534,Advanced transitional system engine,25,2025-06-08,65.67,C106,Egypt,1641.75
+INV1211,P854,Multi-layered high-level standardization,49,2025-06-13,80.27,C172,Egypt,3933.23
+INV1994,P570,Multi-channeled neutral implementation,6,2025-06-13,51.46,C172,Nigeria,308.76
+INV1022,P816,Up-sized 24/7 firmware,2,2025-06-14,72.13,C180,Uganda,144.26
+INV1079,P433,Advanced web-enabled focus group,15,2025-06-15,54.44,C119,Ghana,816.5999999999999
+INV1344,P673,Integrated tangible hierarchy,30,2025-06-17,64.09,C136,Nigeria,1922.7
+INV1299,P697,Ergonomic neutral array,8,2025-06-17,77.33,C157,Tanzania,618.64
+INV1937,P985,Team-oriented modular concept,14,2025-06-21,59.98,C137,Morocco,839.7199999999999
+INV1784,P761,Synergistic 24/7 knowledgebase,13,2025-06-21,66.5,C114,Tanzania,864.5
+INV1641,P925,Persistent fresh-thinking capacity,47,2025-06-21,30.58,C191,Ethiopia,1437.26
+INV1015,P632,Extended web-enabled encryption,3,2025-06-21,58.02,C147,South Africa,174.06
+INV1545,P566,Fully-configurable context-sensitive Graphic Interface,29,2025-06-22,16.73,C137,Uganda,485.17
+INV1534,P796,Pre-emptive cohesive core,33,2025-06-23,67.93,C187,Egypt,2241.69
+INV1781,P716,Public-key intermediate hardware,22,2025-06-24,24.22,C197,Kenya,532.8399999999999
+INV1556,P835,Streamlined full-range orchestration,8,2025-06-24,14.0,C183,Ethiopia,112.0
+INV1896,P534,Robust zero administration Graphic Interface,32,2025-06-25,90.68,C175,Ethiopia,2901.76
+INV1753,P309,Integrated local monitoring,13,2025-06-25,6.12,C177,Rwanda,79.56
+INV1760,P730,Progressive regional hub,6,2025-06-26,69.13,C117,South Africa,414.78
+INV1214,P403,Re-engineered asymmetric paradigm,17,2025-06-26,86.83,C184,South Africa,1476.11
+INV1813,P282,Synergized modular hierarchy,13,2025-06-28,44.38,C114,Nigeria,576.94
+INV1707,P953,Open-source leadingedge focus group,21,2025-06-29,37.91,C179,Kenya,796.1099999999999
+INV1104,P850,Managed bottom-line software,8,2025-06-29,49.9,C161,Kenya,399.2
+INV1832,P630,Multi-layered dedicated standardization,30,2025-06-30,17.68,C180,Uganda,530.4
+INV1824,P617,Synergistic tangible solution,26,2025-07-03,56.78,C155,Uganda,1476.28
+INV1244,P978,User-centric attitude-oriented adapter,9,2025-07-04,62.85,C124,Egypt,565.65
+INV1887,P1087,Optional web-enabled challenge,4,2025-07-05,12.12,C176,Morocco,48.48
+INV1586,P1079,Innovative scalable matrix,24,2025-07-06,96.78,C128,Ethiopia,2322.7200000000003
+INV1374,P599,Right-sized context-sensitive interface,23,2025-07-06,44.66,C112,Kenya,1027.1799999999998
+INV1369,P610,Extended didactic open system,31,2025-07-07,37.11,C183,Kenya,1150.41
+INV1049,P304,Exclusive 5thgeneration circuit,26,2025-07-07,47.84,C126,Kenya,1243.8400000000001
+INV1092,P573,Front-line 5thgeneration pricing structure,45,2025-07-08,17.51,C112,Nigeria,787.95
+INV1819,P356,Profound neutral solution,34,2025-07-08,30.39,C145,South Africa,1033.26
+INV1217,P980,Synergistic eco-centric project,2,2025-07-10,26.13,C156,Kenya,52.26
+INV1328,P262,Multi-tiered leadingedge standardization,17,2025-07-11,1.23,C158,South Africa,20.91
+INV1949,P310,Reactive 24/7 application,47,2025-07-11,68.33,C125,Kenya,3211.5099999999998
+INV1290,P269,Devolved human-resource utilization,48,2025-07-12,57.76,C145,Ghana,2772.48
+INV1499,P1073,Adaptive regional architecture,26,2025-07-13,82.17,C154,Kenya,2136.42
+INV1943,P935,Re-engineered intangible process improvement,2,2025-07-13,83.35,C138,Egypt,166.7
+INV1505,P252,Robust bandwidth-monitored installation,30,2025-07-15,26.61,C166,South Africa,798.3
+INV1529,P352,Right-sized motivating capability,24,2025-07-19,47.88,C133,Ghana,1149.1200000000001
+INV1978,P555,Triple-buffered bi-directional utilization,45,2025-07-21,25.12,C164,Nigeria,1130.4
+INV1574,P1084,Centralized discrete throughput,37,2025-07-23,47.68,C173,Morocco,1764.16
+INV1270,P648,Open-architected multimedia extranet,31,2025-07-24,14.1,C170,Rwanda,437.09999999999997
+INV1628,P553,Optional regional infrastructure,39,2025-07-24,32.89,C109,Kenya,1282.71
+INV1980,P638,Diverse hybrid Local Area Network,47,2025-07-25,10.2,C151,South Africa,479.4
+INV1279,P802,User-friendly well-modulated policy,2,2025-07-26,41.12,C188,Kenya,82.24
+INV1607,P991,Ergonomic bottom-line complexity,36,2025-07-28,66.04,C171,Tanzania,2377.44
+INV1493,P415,Adaptive dedicated help-desk,30,2025-07-28,19.73,C107,Kenya,591.9
+INV1658,P838,Fully-configurable solution-oriented intranet,29,2025-07-28,65.38,C193,Kenya,1896.02
+INV1993,P643,Multi-channeled content-based firmware,37,2025-07-28,24.67,C200,Kenya,912.7900000000001
+INV1676,P630,Reactive global initiative,44,2025-07-28,42.42,C187,Kenya,1866.48
+INV1666,P516,Re-engineered clear-thinking complexity,22,2025-07-29,5.32,C145,Kenya,117.04
+INV1041,P914,Ergonomic explicit neural-net,9,2025-07-30,55.31,C159,Uganda,497.79
+INV1262,P906,Synergized cohesive initiative,18,2025-07-31,48.99,C146,Egypt,881.82
+INV1736,P624,Upgradable multi-tasking algorithm,28,2025-08-01,94.91,C143,Kenya,2657.48
+INV1367,P418,Persistent empowering protocol,49,2025-08-01,64.81,C184,Egypt,3175.69
+INV1154,P608,Inverse background info-mediaries,32,2025-08-01,61.18,C200,Ethiopia,1957.76
+INV1129,P474,Compatible analyzing instruction set,40,2025-08-02,14.77,C165,Uganda,590.8
+INV1178,P457,Networked upward-trending matrices,20,2025-08-04,22.06,C132,South Africa,441.2
+INV1515,P333,Business-focused 24hour capability,32,2025-08-04,29.05,C143,Kenya,929.6
+INV1844,P560,Horizontal composite encoding,39,2025-08-05,25.36,C142,Uganda,989.04
+INV1398,P521,Profit-focused hybrid access,9,2025-08-06,27.9,C192,South Africa,251.1
+INV1708,P373,Horizontal value-added circuit,16,2025-08-09,51.75,C165,Ghana,828.0
+INV1265,P519,Focused client-server artificial intelligence,11,2025-08-11,70.19,C166,Nigeria,772.0899999999999
+INV1335,P454,Fundamental coherent concept,30,2025-08-12,79.21,C169,Nigeria,2376.2999999999997

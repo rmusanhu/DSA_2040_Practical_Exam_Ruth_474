@@ -1,0 +1,6 @@
+antecedents,consequents,support,confidence,lift
+"frozenset({'milk', 'diapers'})","frozenset({'butter', 'beer'})",0.375,0.9375,1.973684210526316
+"frozenset({'bread', 'butter', 'diapers'})","frozenset({'milk', 'beer'})",0.375,0.9375,1.973684210526316
+"frozenset({'bread', 'milk', 'diapers'})","frozenset({'butter', 'beer'})",0.375,0.9375,1.973684210526316
+"frozenset({'butter', 'diapers'})","frozenset({'bread', 'milk', 'beer'})",0.375,0.9375,1.973684210526316
+"frozenset({'milk', 'diapers'})","frozenset({'bread', 'butter', 'beer'})",0.375,0.9375,1.973684210526316
