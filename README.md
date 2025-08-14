@@ -53,7 +53,7 @@ DSA 2040_Practical Exam_Ruth_474/
 │       ├── top_association_rules.csv
 │       └── association_rules_report.md
 │
-└── requirements.txt   
+└── requirements.txt  
 
 ## 📥 Datasets Used  
 ### Section 1: Retail Data Warehouse  
